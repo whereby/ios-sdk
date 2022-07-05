@@ -1,0 +1,6 @@
+framework module mediasoup_client_ios {
+    umbrella header "Mediasoup.h"
+    
+    export *
+    module * { export * }
+}

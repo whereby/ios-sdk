@@ -1,2 +1,1 @@
-# ios-sdk
-iOS SDK for Whereby Embedded
+# iOS SDK for Whereby Embedded
