@@ -10,12 +10,27 @@ public protocol WherebyRoomViewControllerDelegate : AnyObject {
 }
 @objc @_Concurrency.MainActor(unsafe) public class WherebyRoomViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) weak public var delegate: WherebySDK.WherebyRoomViewControllerDelegate?
-  @_Concurrency.MainActor(unsafe) public init(url: Foundation.URL, createOwnNavigationController: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public init(room: WherebySDK.WherebyRoomConfig, isPushedInNavigationController: Swift.Bool)
   @available(*, unavailable)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func willMove(toParent parent: UIKit.UIViewController?)
   @objc deinit
   @_Concurrency.MainActor(unsafe) public func join()
-  @_Concurrency.MainActor(unsafe) public func leave()
 }
+public enum MediaMode {
+  case audioOnly
+  case video
+  public static func == (a: WherebySDK.MediaMode, b: WherebySDK.MediaMode) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct WherebyRoomConfig {
+  public var url: Foundation.URL
+  public var mediaMode: WherebySDK.MediaMode?
+  public init(url: Foundation.URL, mediaMode: WherebySDK.MediaMode? = nil)
+}
+extension WherebySDK.MediaMode : Swift.Equatable {}
+extension WherebySDK.MediaMode : Swift.Hashable {}

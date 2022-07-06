@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "WherebySDK"
-  spec.version      = "0.1.0"
+  spec.version      = "0.2.0"
   spec.summary      = "iOS SDK for Whereby Embedded"
   spec.description  = <<-DESC
     Whereby Embedded is the easiest way to add video calls to your web page or mobile app.

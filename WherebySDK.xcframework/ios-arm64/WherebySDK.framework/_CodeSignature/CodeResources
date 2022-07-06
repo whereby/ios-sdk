@@ -16,18 +16,6 @@
 		<data>
 		PNpKCfHwUq8PaQz0ZKaR0ruMBfo=
 		</data>
-		<key>CallModeSelect.storyboardc/CallModeSelectViewController-StoryboardID.nib</key>
-		<data>
-		Eh9HJZwf2DJbXOjT3VxQ0XW0fSg=
-		</data>
-		<key>CallModeSelect.storyboardc/Info.plist</key>
-		<data>
-		GG57qjarry62Q7LqymnUmc1I0bY=
-		</data>
-		<key>CallModeSelect.storyboardc/LET-Vm-v7y-view-PRg-zn-aGQ.nib</key>
-		<data>
-		o9stuIve9ErIsGUV/RHTWG9edoU=
-		</data>
 		<key>Chat.storyboardc/ChatInputAccessoryViewController-StoryboardID.nib</key>
 		<data>
 		V4c1PVcPc+MUMBoXPQKIs927+2Y=
@@ -94,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8R+Z+G5hK/PhGwXHsuZ1dCgbS1c=
+		w6SmhB7P6RNdwfO3s8U+j13Gtn4=
 		</data>
 		<key>JoinRequest.storyboardc/57O-rc-RiG-view-IJy-Jh-bTc.nib</key>
 		<data>
@@ -152,17 +140,29 @@
 		<data>
 		cETNrjsZQ9rDIP6xT+sEIyC/2PU=
 		</data>
+		<key>MediaModeSelect.storyboardc/Info.plist</key>
+		<data>
+		jKF087J+Ed64872Iv5Vm9djH9HE=
+		</data>
+		<key>MediaModeSelect.storyboardc/LET-Vm-v7y-view-PRg-zn-aGQ.nib</key>
+		<data>
+		tk3R0JsU7mQI/eEgsofmQQ8Iuio=
+		</data>
+		<key>MediaModeSelect.storyboardc/MediaModeSelectViewController-StoryboardID.nib</key>
+		<data>
+		rATwjagg4PS+8vfUiCFsSpDw9lk=
+		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		/T5EUz0Um5A9ezEYyipwj+/hfpw=
+		y6iTlJlRSD4O+/Jk+ouIU0XEgy0=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		esifuYV+HRtTq8XG6yQ2FYLQW0Q=
+		AwHaXNqy3uchfgeb1u7hEcQPkho=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		XOSCUWMAHmahc6h/FRv5PIs6CfU=
+		yDtteMqXPWZDUhzy7ff+ikx1AtA=
 		</data>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
 		<data>
@@ -276,7 +276,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GeGpYP9FYV4PTvAbWHA6fNdl7t8=
+			rNXtNMcGz2kb8pg0M7osYaxflvI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -315,27 +315,6 @@
 			<key>hash2</key>
 			<data>
 			ZrGexcUFVyexvJNGl5OSqkVzo1LggoCtmNs5AsNsLCA=
-			</data>
-		</dict>
-		<key>CallModeSelect.storyboardc/CallModeSelectViewController-StoryboardID.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EDtaXcIYlc3UsVfTLQA5Ta9RBF8epmbpb+l7FyM6fV0=
-			</data>
-		</dict>
-		<key>CallModeSelect.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OzHt/zkQ1LABY3cI6n3+upCSvEI42QuIYbjsLzje754=
-			</data>
-		</dict>
-		<key>CallModeSelect.storyboardc/LET-Vm-v7y-view-PRg-zn-aGQ.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WM0Yfn9evjqk1wQV6ClkIwipD+DNwV8F97B0qAAufxA=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/ChatInputAccessoryViewController-StoryboardID.nib</key>
@@ -548,25 +527,46 @@
 			kvwzC2nmKxMcTfgmY8s1NTLErkhUzLWZGnBJZPbQSsY=
 			</data>
 		</dict>
+		<key>MediaModeSelect.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+bua3nNFQS2T0dJiQkr8mlzwsI52/hm5zzIJqb/mNsY=
+			</data>
+		</dict>
+		<key>MediaModeSelect.storyboardc/LET-Vm-v7y-view-PRg-zn-aGQ.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t0Bh4pzWoZ49fWmzftWzNB1Sf/FW9y7PlSOpUcKnyrU=
+			</data>
+		</dict>
+		<key>MediaModeSelect.storyboardc/MediaModeSelectViewController-StoryboardID.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3YvilThFBwYZYGp5vQwXIDzQQFV/5GRN0aIuAKwdI2o=
+			</data>
+		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nLPj0IbMiA55gtIncZUU5mnmeo8Ptf+oPmKe51F6Sak=
+			yndGEd62yYHkoG9ULFl+FsRmkOYo8QOcbr7iPDOjG/Q=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KzcREPN54x8+y6Xb8azGEtQCDmW9H8wsYKRTvJYSbzA=
+			MXCUxMHwAOQhc3enN3+lgx0CLeQq1X4MP8XtF5cANQA=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qaUGTfIYPxLlInM5NzVIH9PSvkZu6lb6RcdmKHLSC74=
+			s5mS8SSVtg4RXXKu5hM5/A/4ufnaTLKrX4OvP3W4EM4=
 			</data>
 		</dict>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
@@ -762,7 +762,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6oOpDk1miQoq35u2J2idG7L1SusPIbrP9qr9tk+CKDQ=
+			KU8D2BsidyyeNR9YC40goabhpAcMa+GCbEJtpsG4XEA=
 			</data>
 			<key>optional</key>
 			<true/>
