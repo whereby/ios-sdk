@@ -82,7 +82,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3VLJx0dSha8NgirpwQOV8IsAwsk=
+		AGz+pyyqsPASyYVSDm2vYzqydNM=
 		</data>
 		<key>JoinRequest.storyboardc/57O-rc-RiG-view-IJy-Jh-bTc.nib</key>
 		<data>
@@ -158,11 +158,11 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Vnc3tshJgQBDo1nbS1deNSnRVJ0=
+		dNKqXG13gTddq8KeVY5DEwoRxIo=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		v3kYFSbnOgUYta9UsPAMtvYezZA=
+		CfDtTVGmUMunVxx10vU26YVFsOk=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -170,11 +170,11 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3BebZ9QZlFDaRYozlGqOyRTHk3w=
+		JbC77knkICdpSn7EbKgkJQEJk8g=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		e8xUZryKs9j4U16UOjr3zhq4lVM=
+		3ZYGQ+t0C78nLEvhacuNp+EGi8A=
 		</data>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
 		<data>
@@ -571,14 +571,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P+s0b4jyGZz0EYYYcbyN25ZMIqY7o2b6fge4sTec5pU=
+			eDEIfivYnW+8vAPb0zSXU+qCk4LSeF6n9GZUVKx/soU=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7CtR6Be2mh0bp6MW0rpDTz7GY7ly5aduE8+YAK9gq+Q=
+			ai6F1dUfx/VHwC7Pva3fpHAwpprDprssMi8ZSkGd99A=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -592,14 +592,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fA6MojSwgiwgtULlLbIF0GAOFlEW4H42yy3IJ9/QehQ=
+			ZNC4F+hQru2J5D7JgP+jM89/FVN4gs5xn5ewj/8lfOE=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0F6W4OJulGAYd5na5XQ6oeNJ6DitRN6coNHjdhCYh8s=
+			42J9KpfROB86+vZARlRrhqj87eMtG90RO+IeTd8273Y=
 			</data>
 		</dict>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>

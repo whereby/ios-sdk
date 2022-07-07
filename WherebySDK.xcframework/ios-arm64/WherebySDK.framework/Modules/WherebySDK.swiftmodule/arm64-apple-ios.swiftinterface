@@ -10,7 +10,7 @@ public protocol WherebyRoomViewControllerDelegate : AnyObject {
 }
 @objc @_Concurrency.MainActor(unsafe) public class WherebyRoomViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) weak public var delegate: WherebySDK.WherebyRoomViewControllerDelegate?
-  @_Concurrency.MainActor(unsafe) public init(room: WherebySDK.WherebyRoomConfig, isPushedInNavigationController: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public init(config: WherebySDK.WherebyRoomConfig, isPushedInNavigationController: Swift.Bool)
   @available(*, unavailable)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
