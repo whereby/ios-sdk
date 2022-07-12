@@ -147,8 +147,14 @@ For the complete example of the SDK usage try our [demo app](https://github.com/
     }
     ```
 
-
 ## Notes
 - iOS simulator does not have camera support. We recommend testing the room integration on a real device. However, it is possible to run the app using Whereby SDK on a simulator as well.
 - When running on a simulator on a Mac computer with Apple Silicon CPU the SDK may crash when rendering more than one remote video view in a room. This issue is only present for simulator. As a workaround, run the app on a real device or alternatively, open Xcode using Rosetta and then run your app on a simulator.
 -  Whereby SDK uses [CallKit](https://developer.apple.com/documentation/callkit) framework. When submitting your app to the App Store, Apple may require to disable CallKit for users in China. This is already handled by the SDK and does not require any additional configuration in your app. You may need to provide a note in the App Review Information section in App Store Connect when submitting your app, e.g. _CallKit functionality is disabled for users in China._ Whereby rooms will still work for users in China but without the deeper system integration that is provided by CallKit.
+
+## Disclaimer
+Whereby publishes these packages to help the developer community understand how the Whereby Embedded product can be implemented.
+
+Whereby does not recommend using such examples in a production environment without a prior assessment and appropriate testing relevant to the production setup targeted which can be of operational, technical, security or legal (e.g. library licenses assessment) nature. You expressly agree that the use of these packages is at your sole risk.
+
+Whereby, its affiliates, suppliers, or licensors, whether express or implied, do not make any representation, warranties, contractual commitments, conditions, or assurances by the operation of these examples, or the information, content, materials, therein.
