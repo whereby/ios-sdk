@@ -10,13 +10,27 @@ Other platforms:
 
 ## Prerequisites
 - The latest stable version of [Xcode](https://apps.apple.com/us/app/xcode/id497799835)
-- The latest stable version of [CocoaPods](https://cocoapods.org/)
+- The latest stable version of [CocoaPods](https://cocoapods.org/) (not needed when using Swift Package Manager)
 - Sign up to [Whereby Embedded](https://whereby.com/information/embedded/) account
 - [Create a room](https://docs.whereby.com/creating-and-deleting-rooms) in your Whereby Embedded account
 
 Whereby SDK supports iOS 14.0 as minimum deployment target.
 
 ## Installation
+
+### Using Swift Package Manager
+
+1. Open your project in Xcode and select File > Add Packages...
+2. In the Search or Enter Package URL text field, enter the repository URL:
+    ```
+    https://github.com/whereby/ios-sdk.git
+    ```
+
+3. Click Add Package.
+4. In the Choose Package Product window, keep the WherebySDK product selected and click Add Package.
+
+For more details see [Adding Package Dependencies to Your App](https://developer.apple.com/documentation/xcode/adding-package-dependencies-to-your-app).
+
 ### Using CocoaPods
 
 1. Add the following line to your project's Podfile:
@@ -40,7 +54,7 @@ Whereby SDK supports iOS 14.0 as minimum deployment target.
     ```
 ### Manual installation
 
-We recommend using CocoaPods dependency manager to install Whereby SDK. Alternatively, it's also possible to add the SDK to your project manually:
+We recommend using either Swift Package Manager or CocoaPods to install Whereby SDK. Alternatively, it's also possible to add the SDK to your project manually:
 1. Clone this repository:
     ```
     git clone https://github.com/whereby/ios-sdk.git
