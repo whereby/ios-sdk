@@ -160,6 +160,14 @@ For the complete example of the SDK usage try our [demo app](https://github.com/
         // navigationController!.popViewController(animated: true)
     }
     ```
+    
+8.  Optionally, setup media (microphone and camera) toggle buttons. For example:
+    ```swift
+        @IBAction func toggleMicrophoneButtonPressed(_ sender: UIButton) {
+            guard let roomViewController = roomViewController else { return }
+            roomViewController.isMicrophoneEnabled = !roomViewController.isMicrophoneEnabled
+    }
+    ```
 
 ## Notes
 - iOS simulator does not have camera support. We recommend testing the room integration on a real device. However, it is possible to run the app using Whereby SDK on a simulator as well.
