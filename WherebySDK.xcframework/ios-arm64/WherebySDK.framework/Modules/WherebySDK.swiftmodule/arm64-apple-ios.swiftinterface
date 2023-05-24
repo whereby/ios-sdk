@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
 // swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name WherebySDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
@@ -11,7 +11,7 @@ public protocol WherebyRoomViewControllerDelegate : AnyObject {
   func roomViewControllerDidLeave(_ roomViewController: WherebySDK.WherebyRoomViewController)
 }
 @objc @_Concurrency.MainActor(unsafe) public class WherebyRoomViewController : UIKit.UIViewController {
-  @_Concurrency.MainActor(unsafe) weak public var delegate: WherebySDK.WherebyRoomViewControllerDelegate?
+  @_Concurrency.MainActor(unsafe) weak public var delegate: (any WherebySDK.WherebyRoomViewControllerDelegate)?
   @_Concurrency.MainActor(unsafe) public var isMicrophoneEnabled: Swift.Bool {
     get
     set
