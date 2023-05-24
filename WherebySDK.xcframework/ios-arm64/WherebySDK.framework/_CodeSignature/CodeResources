@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		KUfoJJ9YB+bReDK02vI53Vo5Ij8=
+		cIXstCTwjkGUsuOazIHj7L6TGh8=
 		</data>
 		<key>AvatarMenuCell.nib</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>ChatHistory.momd/ChatHistory.mom</key>
 		<data>
-		o1ENlsDI8Nr9aFBMfaRXoha56Oc=
+		Ure1sjzfMF5TEGfsrK4ChSXWbZQ=
 		</data>
 		<key>ChatHistory.momd/VersionInfo.plist</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		si0U8Gu/LrHUdxJhz+CR17joitE=
+		GKMDk5XV3azc8xQHLfxVxT1DXzc=
 		</data>
 		<key>JoinRequest.storyboardc/57O-rc-RiG-view-IJy-Jh-bTc.nib</key>
 		<data>
@@ -140,6 +140,42 @@
 		<data>
 		RgDEMn+3SB49tgr9v13f0ovakJ4=
 		</data>
+		<key>LearningCenter.storyboardc/3jh-xb-k2O-view-Om2-Vn-o4R.nib</key>
+		<data>
+		1RGSSnrhpQesu1Nl6DzspoSLfNE=
+		</data>
+		<key>LearningCenter.storyboardc/FeatureDetailsViewController.nib</key>
+		<data>
+		0ZWRXbk5DooG5FP5SiNNxDrc7XU=
+		</data>
+		<key>LearningCenter.storyboardc/FeaturesViewController.nib</key>
+		<data>
+		Zd1O+wLx5g+mcaDir712JcLfqck=
+		</data>
+		<key>LearningCenter.storyboardc/Info.plist</key>
+		<data>
+		X7Cjrg1dJoVhQqbMYPNCCQlYOMs=
+		</data>
+		<key>LearningCenter.storyboardc/LearningCenterViewController.nib</key>
+		<data>
+		JDJN4JaDbQEWnLwLPT7E8FFkYDw=
+		</data>
+		<key>LearningCenter.storyboardc/cvO-bp-0fi-view-jiv-4u-fKU.nib</key>
+		<data>
+		jqGGmpRi69CAFKebvEuPyYeeguw=
+		</data>
+		<key>LearningCenter.storyboardc/fAN-Su-ifM-view-jem-R4-yrn.nib</key>
+		<data>
+		oC51qv09UmDIdTf6q08TwbzGI40=
+		</data>
+		<key>LearningCenterTagView.nib</key>
+		<data>
+		ZATuUMxmccgTAYqvd7Wz5U5eimY=
+		</data>
+		<key>LearningCenterTitleStackView.nib</key>
+		<data>
+		hHrzrWt7adnWhI+01LRjepDm9rg=
+		</data>
 		<key>ListSectionHeaderView.nib</key>
 		<data>
 		tY9PDHGfiSB8VKN0SvbkouABPrI=
@@ -158,23 +194,23 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		WZpv2CmqSXGJsIRoKeTMhT4G+Zk=
+		U2H4G0HTem14X7Pdy93pna6EjoA=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		CO/IuZMiiQiRNS0fzDA52Q03z1Q=
+		vT2wBk/qcevy4ynvdvACdQBN5a4=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		BXaI/bnYzlw7Y0L5GWFeQD8a/rA=
+		8Cct/Xn7W8GpMqsxz1zXgH3EEV0=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		CO/IuZMiiQiRNS0fzDA52Q03z1Q=
+		vT2wBk/qcevy4ynvdvACdQBN5a4=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ymQNzjL7U5WMQ7JFdCT3o0Pk3rI=
+		lM2aXclTj0ZFPf4e+NqISAdrqJI=
 		</data>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
 		<data>
@@ -190,7 +226,7 @@
 		</data>
 		<key>Room.storyboardc/A39-pP-f6z-view-9Bc-E6-03X.nib</key>
 		<data>
-		paSqDXBZpmbLMP17DbF5kLPtXII=
+		sFAjyahg/cUN8NyqUIyb78uLNqQ=
 		</data>
 		<key>Room.storyboardc/Info.plist</key>
 		<data>
@@ -230,7 +266,7 @@
 		</data>
 		<key>Room.storyboardc/bQD-fo-ZpP-view-Jwq-lI-qhm.nib</key>
 		<data>
-		xO46pBAoeQh4Bp6ueAubw/2YhuU=
+		Z9WP4ZSPyfWAWMxXuVGplYyXox0=
 		</data>
 		<key>Room.storyboardc/dIe-o9-TIb-view-n8c-VO-Sw0.nib</key>
 		<data>
@@ -288,7 +324,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			utPO6mlIsG9aoNHlT4I9ToXhZHU=
+			aofY+quFbuolFzwN2ps2GN9Hax4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -312,7 +348,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mTXRxnjV1wDi0oNmkg9tH0NAjMJPZr8FtrW/wNfozX0=
+			E37tHaHGU0r+Efe4DquEW+ZDtGd+oSnzEPkcFrNMvBU=
 			</data>
 		</dict>
 		<key>AvatarMenuCell.nib</key>
@@ -375,7 +411,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N/UP7WOVdNJTsVMDdCFccnqHMWLbiItZ61wquUyB+Yo=
+			osX9HoHG66OGKbYHuw818mcYvxvt9lrIri/6hVBRiVg=
 			</data>
 		</dict>
 		<key>ChatHistory.momd/VersionInfo.plist</key>
@@ -539,6 +575,69 @@
 			VgBMiDNieqeXJo1FaLXGPnncP+wlDWZgM/EkV1noX5g=
 			</data>
 		</dict>
+		<key>LearningCenter.storyboardc/3jh-xb-k2O-view-Om2-Vn-o4R.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g0bliOCJJodhtu3qxZ8J4ZxtG8xhUmD/IjzIi6wxCzk=
+			</data>
+		</dict>
+		<key>LearningCenter.storyboardc/FeatureDetailsViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p8WKvqhaTTWT95TjJCFIymg+EonF6ylxHyMvR5zv/3s=
+			</data>
+		</dict>
+		<key>LearningCenter.storyboardc/FeaturesViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t7tqqELh8i1x/pMrY13N0Wtw04EC5SXd7cvG2Kktz0c=
+			</data>
+		</dict>
+		<key>LearningCenter.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			o7FGbzk530YYYTkkr+PAjNG7Fcs2T1JparHkhpixSQM=
+			</data>
+		</dict>
+		<key>LearningCenter.storyboardc/LearningCenterViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I75FZgrO42P/Ygcv3Mc6gBv6XIVluBbg5YFrwSPKMec=
+			</data>
+		</dict>
+		<key>LearningCenter.storyboardc/cvO-bp-0fi-view-jiv-4u-fKU.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			55KXhXtXL8F6oyqw7A3mhjUUXMsJDbHNSHmLZQdEfNU=
+			</data>
+		</dict>
+		<key>LearningCenter.storyboardc/fAN-Su-ifM-view-jem-R4-yrn.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Me9XQPK9XmdrjS5l+4f1ND74RIQh5LPiJ3O6dahReUc=
+			</data>
+		</dict>
+		<key>LearningCenterTagView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			st4C0roZzSVAL1XYsWuIqyWWJz56jEYh5pfEThaxTzw=
+			</data>
+		</dict>
+		<key>LearningCenterTitleStackView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			j3EwP3BRvu2yUgGT1fPDLIcqifVtrUqDRtTLuBudvZA=
+			</data>
+		</dict>
 		<key>ListSectionHeaderView.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -571,35 +670,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gltgyXqqYnRHQ4GyFVHkNptuERcIUolS1S5pdrwifbk=
+			vSugyWP5fUPBKXWwgrUWXxTeGryqs1Ixj2HQUmnH9Bs=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o8TgltWrd3EyheOVAaN+TNMcvBqUuQAa3Mzpx4upc4s=
+			9Ztc1pCbWNcrtOhefNU9SeZM4LbGsoDIn0GgxEjMAqw=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nV5arpxP9Zxm6LPD2mqDmUsYOtnmpxfnO/PYfjtIBE0=
+			XKFOxwF2FyiRgIc2OfSIcjey3d8MZgsqVkJJYuFAJd0=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o8TgltWrd3EyheOVAaN+TNMcvBqUuQAa3Mzpx4upc4s=
+			9Ztc1pCbWNcrtOhefNU9SeZM4LbGsoDIn0GgxEjMAqw=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E2JsVcF9odbnT1ftToPI400ObrAwoWxJOnUXiWu7vPc=
+			hLaPwKNhdvprSqWwH+xMFSaZegdh46jtty7PesPyImk=
 			</data>
 		</dict>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
@@ -627,7 +726,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1yaN34m8IrZ5DHdEBr5lDlWkH/75xCGtCdXeP74MnkA=
+			s8tYxNNeJ7LzVY+yEevp/I3M48Az7yuW3WO00avDJJk=
 			</data>
 		</dict>
 		<key>Room.storyboardc/Info.plist</key>
@@ -697,7 +796,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jaRIXomGSOYxfOhHjUs6HZ+k6+vTQMdRzXwua8bV6F8=
+			s/D/bBMhxj9FjgB1b/yikpHqaN0QcRK6RlNJRy4txQg=
 			</data>
 		</dict>
 		<key>Room.storyboardc/dIe-o9-TIb-view-n8c-VO-Sw0.nib</key>
@@ -795,7 +894,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			afIG+YAEabShU3+tw2d2c2XddcszzC2pSVeS2NCYhjQ=
+			amZ53SyXU5XH4+KwzZmq2W3QZxcRUqsycGvaCqeTJP8=
 			</data>
 			<key>optional</key>
 			<true/>
