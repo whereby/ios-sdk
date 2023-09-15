@@ -20,6 +20,7 @@ public protocol WherebyRoomViewControllerDelegate : AnyObject {
     get
     set
   }
+  @_Concurrency.MainActor(unsafe) public func leaveRoom()
   @_Concurrency.MainActor(unsafe) public init(config: WherebySDK.WherebyRoomConfig, isPushedInNavigationController: Swift.Bool)
   @available(*, unavailable)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
@@ -40,7 +41,11 @@ public enum MediaMode {
 public struct WherebyRoomConfig {
   public var url: Foundation.URL
   public var mediaMode: WherebySDK.MediaMode?
-  public init(url: Foundation.URL, mediaMode: WherebySDK.MediaMode? = nil)
+  public var settingsButtonIsHidden: Swift.Bool
+  public var moreButtonIsHidden: Swift.Bool
+  public var roomInfoIsHidden: Swift.Bool
+  public var backgroundColor: UIKit.UIColor?
+  public init(url: Foundation.URL, mediaMode: WherebySDK.MediaMode? = nil, settingsButtonIsHidden: Swift.Bool = false, moreButtonIsHidden: Swift.Bool = false, roomInfoIsHidden: Swift.Bool = false, backgroundColor: UIKit.UIColor? = nil)
 }
 extension WherebySDK.MediaMode : Swift.Equatable {}
 extension WherebySDK.MediaMode : Swift.Hashable {}

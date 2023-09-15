@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		cIXstCTwjkGUsuOazIHj7L6TGh8=
+		x4EMV7U27iBR2qmUZ2ndjrO61lA=
 		</data>
 		<key>AvatarMenuCell.nib</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GKMDk5XV3azc8xQHLfxVxT1DXzc=
+		rLsS5AdR1OuFpRKrocdZ1hqnvfQ=
 		</data>
 		<key>JoinRequest.storyboardc/57O-rc-RiG-view-IJy-Jh-bTc.nib</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>JoinRequest.storyboardc/9kq-b9-qZ3-view-Gzu-da-0rk.nib</key>
 		<data>
-		IafnJxkwzGqmsEg/agtENN4YW4o=
+		jRIJzKAv3UvO9lzyR9taGYg/G3g=
 		</data>
 		<key>JoinRequest.storyboardc/Info.plist</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>JoinRequest.storyboardc/kUz-YV-jCC-view-27J-8q-4TF.nib</key>
 		<data>
-		Ajh1LzxoLpux2SfwLjRxE/rVrVE=
+		KZcOcrUI9GCc5QbJWLX0D0TeVgY=
 		</data>
 		<key>JoinRequest.storyboardc/kYm-Dv-J0m-view-cAV-wX-jhW.nib</key>
 		<data>
@@ -194,23 +194,23 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		U2H4G0HTem14X7Pdy93pna6EjoA=
+		flnMl79lsIJ0oAEhgEyUxZB3MAQ=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		vT2wBk/qcevy4ynvdvACdQBN5a4=
+		czBgCkbX8x7YJDZO5RBm1pZ3IMc=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		8Cct/Xn7W8GpMqsxz1zXgH3EEV0=
+		zVa+m3TsiQC6mX7vTszdr1+2R4Y=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		vT2wBk/qcevy4ynvdvACdQBN5a4=
+		czBgCkbX8x7YJDZO5RBm1pZ3IMc=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		lM2aXclTj0ZFPf4e+NqISAdrqJI=
+		vJmsg2aiU57Xx5LdGgnDXTc32gw=
 		</data>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
 		<data>
@@ -226,7 +226,7 @@
 		</data>
 		<key>Room.storyboardc/A39-pP-f6z-view-9Bc-E6-03X.nib</key>
 		<data>
-		sFAjyahg/cUN8NyqUIyb78uLNqQ=
+		JMmUle2ld1EEjZ+UtKvQI6vcb2U=
 		</data>
 		<key>Room.storyboardc/Info.plist</key>
 		<data>
@@ -348,7 +348,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			E37tHaHGU0r+Efe4DquEW+ZDtGd+oSnzEPkcFrNMvBU=
+			S4Je4wPwQdX2DXMYO6ELOM5EDZ34Ins9IG+jWWc5oJA=
 			</data>
 		</dict>
 		<key>AvatarMenuCell.nib</key>
@@ -481,7 +481,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jb6D/7eNgI+gdMRjRd+XhYbDYPRXxGRK2Q4+lCHly8Y=
+			0+OGuQcTBluQHSRwxhaOlR9dN54oS7LsKBMFUzdAH3w=
 			</data>
 		</dict>
 		<key>JoinRequest.storyboardc/Info.plist</key>
@@ -530,7 +530,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f3COYh29pI7u/bdXDQjNHPh0rGfZhFlpy/OTTf/463Y=
+			HwP7NLXWMeuslDnj8G2P9H2N8fBByvjA63FxvOUY9ts=
 			</data>
 		</dict>
 		<key>JoinRequest.storyboardc/kYm-Dv-J0m-view-cAV-wX-jhW.nib</key>
@@ -670,35 +670,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vSugyWP5fUPBKXWwgrUWXxTeGryqs1Ixj2HQUmnH9Bs=
+			HZDT/G3UZoqKsGxsspHnh7vdW9Irc4+PwAxn+RA0idg=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Ztc1pCbWNcrtOhefNU9SeZM4LbGsoDIn0GgxEjMAqw=
+			mI0ho2hgtFikfrjIzqcHV6fnfOX8imODa0eMg8ZybDQ=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XKFOxwF2FyiRgIc2OfSIcjey3d8MZgsqVkJJYuFAJd0=
+			hzlxyfCV75CsqsMPgD6YUOo/ViyOmCVhXxZ1K2vzmDM=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Ztc1pCbWNcrtOhefNU9SeZM4LbGsoDIn0GgxEjMAqw=
+			mI0ho2hgtFikfrjIzqcHV6fnfOX8imODa0eMg8ZybDQ=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hLaPwKNhdvprSqWwH+xMFSaZegdh46jtty7PesPyImk=
+			7u9y+6kVkPI7IcTPTAwYcFRWtkQBb9l2Jb7/Fj2GbE0=
 			</data>
 		</dict>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
@@ -726,7 +726,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s8tYxNNeJ7LzVY+yEevp/I3M48Az7yuW3WO00avDJJk=
+			b8Ne1O3jrGauH8gSvNd9D0Z7N/MiKx/6VGJWLphfouA=
 			</data>
 		</dict>
 		<key>Room.storyboardc/Info.plist</key>
