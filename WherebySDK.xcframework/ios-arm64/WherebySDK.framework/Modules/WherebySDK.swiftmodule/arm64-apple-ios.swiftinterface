@@ -1,14 +1,19 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
-// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name WherebySDK
-// swift-module-flags-ignorable: -enable-bare-slash-regex
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name WherebySDK
+import DeveloperToolsSupport
 import Foundation
 import Swift
+import SwiftUI
 import UIKit
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
 public protocol WherebyRoomViewControllerDelegate : AnyObject {
+  func roomViewControllerDidJoinRoom(_ roomViewController: WherebySDK.WherebyRoomViewController)
   func roomViewControllerDidLeave(_ roomViewController: WherebySDK.WherebyRoomViewController)
+  func roomViewControllerDidUpdateMicrophoneEnabled(_ roomViewController: WherebySDK.WherebyRoomViewController, isMicrophoneEnabled: Swift.Bool)
+  func roomViewControllerDidUpdateCameraEnabled(_ roomViewController: WherebySDK.WherebyRoomViewController, isCameraEnabled: Swift.Bool)
 }
 @objc @_Concurrency.MainActor(unsafe) public class WherebyRoomViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) weak public var delegate: (any WherebySDK.WherebyRoomViewControllerDelegate)?
@@ -20,6 +25,12 @@ public protocol WherebyRoomViewControllerDelegate : AnyObject {
     get
     set
   }
+  @_Concurrency.MainActor(unsafe) public func setRoomControlBarIsHidden(_ isHidden: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public func setRoomInfoIsHidden(_ isHidden: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public func setSettingsButtonIsHidden(_ isHidden: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public func setMoreButtonIsHidden(_ isHidden: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public func setRoomBackgroundColor(_ color: UIKit.UIColor)
+  @_Concurrency.MainActor(unsafe) public func leaveRoom()
   @_Concurrency.MainActor(unsafe) public init(config: WherebySDK.WherebyRoomConfig, isPushedInNavigationController: Swift.Bool)
   @available(*, unavailable)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
@@ -27,6 +38,9 @@ public protocol WherebyRoomViewControllerDelegate : AnyObject {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func willMove(toParent parent: UIKit.UIViewController?)
   @objc deinit
   @_Concurrency.MainActor(unsafe) public func join()
+}
+extension WherebySDK.WherebyRoomViewController : UIKit.UINavigationControllerDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func navigationController(_ navigationController: UIKit.UINavigationController, didShow viewController: UIKit.UIViewController, animated: Swift.Bool)
 }
 public enum MediaMode {
   case audioOnly
@@ -40,7 +54,8 @@ public enum MediaMode {
 public struct WherebyRoomConfig {
   public var url: Foundation.URL
   public var mediaMode: WherebySDK.MediaMode?
-  public init(url: Foundation.URL, mediaMode: WherebySDK.MediaMode? = nil)
+  public var skipRoomPushAnimation: Swift.Bool
+  public init(url: Foundation.URL, mediaMode: WherebySDK.MediaMode? = nil, skipRoomPushAnimation: Swift.Bool = false)
 }
 extension WherebySDK.MediaMode : Swift.Equatable {}
 extension WherebySDK.MediaMode : Swift.Hashable {}
