@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Ilakv7rm4u1MsiA3sl8/w+YFQoM=
+		/vxvKavIS34YjkfFMJMWJcdC/ZI=
 		</data>
 		<key>AvatarMenuCell.nib</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>DevicePermissions.storyboardc/ont-Zf-0LB-view-fcD-Pl-BW9.nib</key>
 		<data>
-		gJCLJFGczNhVZbJmclPrS4SlAu4=
+		2HQYHJ+b5g3qHG6LTFmuQfcEesA=
 		</data>
 		<key>ErrorView.nib</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		U8YZ3FpC54c3H7WTkP2HYys0Ud4=
+		2XQi1JTughRk20x4p31/Pw57T4o=
 		</data>
 		<key>JoinRequest.storyboardc/57O-rc-RiG-view-IJy-Jh-bTc.nib</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		U9C6hgCzFzNtPu4APgvo/SNC0z8=
+		YfOcWkdt6g7AZxoGk0Axw+jIkVA=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -214,7 +214,7 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		U9C6hgCzFzNtPu4APgvo/SNC0z8=
+		YfOcWkdt6g7AZxoGk0Axw+jIkVA=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -322,7 +322,7 @@
 		</data>
 		<key>RoomUnowned.storyboardc/Pmo-2j-uZH-view-kx6-hX-DbX.nib</key>
 		<data>
-		vRl6eYIi9iV9vtZPkUToMiqhob0=
+		ZdoXiU5jfkL1hhkcXI5Rwl3sfqQ=
 		</data>
 		<key>TimeLimitedRoomBannerNotificationView.nib</key>
 		<data>
@@ -368,7 +368,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8UqPdcL9RUZ4Nh7/e0DLGRiUfe8Xjf6TkbkABDbMCyg=
+			ok2+n1haPnP3YQyjE4HMm0YVmphxu3n5E/rp+/zDiSI=
 			</data>
 		</dict>
 		<key>AvatarMenuCell.nib</key>
@@ -480,7 +480,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UdcQ9+tjdLUSU3xec1plzjNJMbqpPdZOksS/xi0Hsco=
+			I2LW2TnTJGDLFSUBgZR++8HhLrbCOlSM7RORWAbYSag=
 			</data>
 		</dict>
 		<key>ErrorView.nib</key>
@@ -690,7 +690,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7/gTykp1YsDzeOMncS2YWtYm6NDZjkr10v+DbyIKqeg=
+			THit2W7x7B8L4jCZzSqtXzsX14/AAhiZ5bfc97xSV0I=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -725,7 +725,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7/gTykp1YsDzeOMncS2YWtYm6NDZjkr10v+DbyIKqeg=
+			THit2W7x7B8L4jCZzSqtXzsX14/AAhiZ5bfc97xSV0I=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -914,7 +914,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WqC5cS4nQyiCyow/iyGnTk4H151Hrur6OWbkPjHYBjQ=
+			uWTvdvOwluAaYsRwnzH4nnhlqDBLd+p1sFP7undNoh8=
 			</data>
 		</dict>
 		<key>TimeLimitedRoomBannerNotificationView.nib</key>
