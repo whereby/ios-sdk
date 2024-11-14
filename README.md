@@ -75,13 +75,16 @@ After adding the Whereby SDK follow the next steps to set up your project:
 
    For more details see [Requesting Authorization for Media Capture on iOS](https://developer.apple.com/documentation/avfoundation/capture_setup/requesting_authorization_for_media_capture_on_ios) (note that you don't need to use `AVCaptureDevice` API in your code, this is done by Whereby SDK).
 
-2. Add the audio and voice over IP background execution modes. In Xcode select your project file and then your app's target. In the target settings select the Signing & Capabilities tab. Add the Background Modes capability by clicking the "+" button in the top left corner. After adding the capability select the following values in the Background Modes section using the corresponding checkboxes:
+2. In a similar way, if your app uses file sharing through chat, add permission for the Photo Library: 
+**Privacy - Photo Library Usage Description** (`NSPhotoLibraryUsageDescription`): _Allow access to the photo library to save and manage images and videos._
+
+3. Add the audio and voice over IP background execution modes. In Xcode select your project file and then your app's target. In the target settings select the Signing & Capabilities tab. Add the Background Modes capability by clicking the "+" button in the top left corner. After adding the capability select the following values in the Background Modes section using the corresponding checkboxes:
    - Audio, AirPlay, and Picture in Picture
    - Voice over IP
 
    For more details see [Configuring background execution modes](https://developer.apple.com/documentation/xcode/configuring-background-execution-modes).
 
-3. Disable bitcode. Whereby SDK does not support bitcode and in general it is being deprecated in Xcode 14 (currently in beta, see Apple Clang Compiler, Deprecations section in [Xcode 14 release notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-14-release-notes)). If your app's target enables bitcode then it needs to be disabled. In Xcode select your project file and then your app's target. In the target settings select the Build Settings tab. Search for **Enable Bitcode** setting (`ENABLE_BITCODE`) and set its value to **No**.
+4. Disable bitcode. Whereby SDK does not support bitcode and in general it is being deprecated in Xcode 14 (currently in beta, see Apple Clang Compiler, Deprecations section in [Xcode 14 release notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-14-release-notes)). If your app's target enables bitcode then it needs to be disabled. In Xcode select your project file and then your app's target. In the target settings select the Build Settings tab. Search for **Enable Bitcode** setting (`ENABLE_BITCODE`) and set its value to **No**.
 
 ## Usage
 
