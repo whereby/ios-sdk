@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		/vxvKavIS34YjkfFMJMWJcdC/ZI=
+		/pUO+cEDZnp+o/Wyedyt64mVKyQ=
 		</data>
 		<key>AvatarMenuCell.nib</key>
 		<data>
@@ -16,9 +16,13 @@
 		<data>
 		7WU4pfnCG/ens2ib9CI8V/KQbk0=
 		</data>
+		<key>Chat.storyboardc/ChatDisplayFileViewController.nib</key>
+		<data>
+		lfHYRacgwgPGoy6f/kaIRmgPPtU=
+		</data>
 		<key>Chat.storyboardc/ChatInputAccessoryViewController-StoryboardID.nib</key>
 		<data>
-		mh7eJXPq53UfNTb6Oc9+nUS8VVg=
+		RKq+kII7mEvg4a02UcaUzxLoKNM=
 		</data>
 		<key>Chat.storyboardc/HX7-Ew-e8D-view-yOf-Ho-iB8.nib</key>
 		<data>
@@ -26,7 +30,7 @@
 		</data>
 		<key>Chat.storyboardc/Info.plist</key>
 		<data>
-		nd7njFwASIHNkJdersOMx+WM3R4=
+		jT/ENschVhOVVIpzA8VcROMO3wI=
 		</data>
 		<key>Chat.storyboardc/UITableViewController-f1e-qh-8Tv.nib</key>
 		<data>
@@ -34,23 +38,31 @@
 		</data>
 		<key>Chat.storyboardc/f1e-qh-8Tv-view-bNh-31-D9C.nib</key>
 		<data>
-		BQHo+ifQQxSptY4RvYGmnRM90SA=
+		807xLNAuaVF+f2/ZY3/TgdLF0dw=
+		</data>
+		<key>Chat.storyboardc/fhX-QC-B6t-view-VfR-9I-D0p.nib</key>
+		<data>
+		cJll9juvakBneN20mDSsvmHZqLA=
 		</data>
 		<key>ChatEmptyStateView.nib</key>
 		<data>
-		1kqdTgkJ1akiTxaU9qzJDbowano=
+		ngDCzvUOnMpuuY/arBmynKVwLY0=
 		</data>
 		<key>ChatHistory.momd/ChatHistory.mom</key>
 		<data>
-		9JzlMp3H/cnt6j3tTp5N7LF1X4I=
+		tAybF38ZZSQ69vkdDiCS0OWwWU0=
 		</data>
 		<key>ChatHistory.momd/VersionInfo.plist</key>
 		<data>
-		RP5bCyaIlJakSNUax5Wj+qjivrQ=
+		B7FfFo2a2L1B3/+PUje2uv1pMPQ=
 		</data>
 		<key>ChatMessageInVideoRendererView.nib</key>
 		<data>
 		PvuiQW/BTLU3/g5/lWdc7rMvT14=
+		</data>
+		<key>ChatMessageSharedFileView.nib</key>
+		<data>
+		2kAMABgz3ir1h91AF1dkfAloaZ4=
 		</data>
 		<key>ClientHUDView.nib</key>
 		<data>
@@ -78,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2XQi1JTughRk20x4p31/Pw57T4o=
+		egW2nHO1NZEVlBHMQsa3vCt+mqk=
 		</data>
 		<key>JoinRequest.storyboardc/57O-rc-RiG-view-IJy-Jh-bTc.nib</key>
 		<data>
@@ -194,43 +206,43 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		YfOcWkdt6g7AZxoGk0Axw+jIkVA=
+		mnMBtp/X+o3sUikRRMa1Eum9eNk=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		h3rTj+syA2Sm+l2wRgWpbobgsck=
+		BcRItAOr88TXnAHKVoWvDwayG9s=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		IM785QuDtSRFX5AVJuaVGtvpFl8=
+		ag03a3RlCOEMYHnG3EdeGco/T8c=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		h3rTj+syA2Sm+l2wRgWpbobgsck=
+		BcRItAOr88TXnAHKVoWvDwayG9s=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pbgCdSGg6oviagnFw0eB1p4ReL0=
+		ne+X73MXZWpMv7PCdpVFTMZRsL4=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		YfOcWkdt6g7AZxoGk0Axw+jIkVA=
+		mnMBtp/X+o3sUikRRMa1Eum9eNk=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		AQt5VhG9dL+qRTwt+QY8h+3WXM0=
+		8tE2slxy7WEnEw1+/rA0jcf7hAY=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		uPRRt8qrsQ834uW2U+fih2tAVKM=
+		8nzJgyb01GKBSFuGm1TzZ/j8vG0=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		AQt5VhG9dL+qRTwt+QY8h+3WXM0=
+		8tE2slxy7WEnEw1+/rA0jcf7hAY=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WsJyk7E2tq/TFvIBctLdcCsSmk8=
+		DTfNmTlRq9hQpHY2RE+7jCvWWxw=
 		</data>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
 		<data>
@@ -344,7 +356,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SaErRx6TsuwSF+/2/26uoWxnRu0=
+			qYkBl0UcOneU3W9BOSFl5sFulvc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -368,7 +380,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ok2+n1haPnP3YQyjE4HMm0YVmphxu3n5E/rp+/zDiSI=
+			jluD/fsylLqaND9lu8yRXaDdIfdZyRAuceVtsVV6348=
 			</data>
 		</dict>
 		<key>AvatarMenuCell.nib</key>
@@ -385,11 +397,18 @@
 			28zqhaWMtD3JiKVf5lPoIRcYki7H+Pkbpg62ofYnKhY=
 			</data>
 		</dict>
+		<key>Chat.storyboardc/ChatDisplayFileViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T2G6glzL3gEFY11jKGXegbdsI/wlbbIv4k1bdYOyNgQ=
+			</data>
+		</dict>
 		<key>Chat.storyboardc/ChatInputAccessoryViewController-StoryboardID.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ziv5P+kDyYq0JfaY3DRQyd2J5zz+jdAk0ToGWEch8CU=
+			46qoPWLXRysXUGmMM5LqT4WT9zk/l8jgqFINi5Pbtdo=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/HX7-Ew-e8D-view-yOf-Ho-iB8.nib</key>
@@ -403,7 +422,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W5wmiVOwY9dJ70LXN6MOJOIEYYWd2E3C3xnaku8BzZg=
+			Ry7MX/D68ZibfUCcReOGhIPgLn2kW8z8P9Z2eBVPSh8=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/UITableViewController-f1e-qh-8Tv.nib</key>
@@ -417,28 +436,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/t8Ppa7HHRU8iVLQZ2IGIa7Kt1nmO5idSM7CoqBmeqM=
+			Y0T7yX+53Gqdju3Ep3Plqi/Rr9MG9w6aw4GjHKhTLDM=
+			</data>
+		</dict>
+		<key>Chat.storyboardc/fhX-QC-B6t-view-VfR-9I-D0p.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lq8kqAPD6GCM3XjXkYIJLUGkATPK0AVyLFV6CJW6WYc=
 			</data>
 		</dict>
 		<key>ChatEmptyStateView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fWqgF8C7YD4erLzRN2PuuDpPjOGgRjri0Ge4sG/Ax0U=
+			YZZLITArbWuQ+YOJqVPM0cvkwnDygruGZSFtceI0DV8=
 			</data>
 		</dict>
 		<key>ChatHistory.momd/ChatHistory.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B3IXSBJqLxCYyevH2IRmn9nKBV1my7sYZLxmGIutc8M=
+			ui79MmJ6O6os58QCbHnEpuwQSItU03qsfvcylRquoXo=
 			</data>
 		</dict>
 		<key>ChatHistory.momd/VersionInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I5uuMyAw4/7Jt/MccXGYxWe4Yd3hCb/dclMfwmFnKM4=
+			iH1JRG8qMiIWNcQxEsnDAG5k22n1ZqesL6TPaGRpnzc=
 			</data>
 		</dict>
 		<key>ChatMessageInVideoRendererView.nib</key>
@@ -446,6 +472,13 @@
 			<key>hash2</key>
 			<data>
 			WotbfRlQglwXzdVjRgX712X8iAPBz5i9kbMy3FTOiIQ=
+			</data>
+		</dict>
+		<key>ChatMessageSharedFileView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B9/5cCuaGaKixEMIDlAx/KMizYFjZSAMdiXW2t5yjlY=
 			</data>
 		</dict>
 		<key>ClientHUDView.nib</key>
@@ -690,70 +723,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			THit2W7x7B8L4jCZzSqtXzsX14/AAhiZ5bfc97xSV0I=
+			uffgq+Ci1c1ajQl+8aeob/Yz26oNLA3ryjrAQTn2UXc=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aQr6GQGTX+dWu1wBp48mXDA0YHanmpnJarW2nSXKxs4=
+			oBy8H6vy23j/ImzFGy+IjaHq/BTaewbnx17z9Gq1gwQ=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I5i8wBj4DeyB/DVUTLKRe5a6y7cMh19NtOc1iC6jXoc=
+			4YWtK7Mc5jvPh6a8wx+UZWlhUQMvxWTlboQUOz+Qg/0=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aQr6GQGTX+dWu1wBp48mXDA0YHanmpnJarW2nSXKxs4=
+			oBy8H6vy23j/ImzFGy+IjaHq/BTaewbnx17z9Gq1gwQ=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pe7iKuL4uLYuYpQXukTXZcug9+aIMIEQEdnWn/xtAxQ=
+			XkigFHk3ojy4AqGD5At2eUMOkCJeoxW0q+uvov62kac=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			THit2W7x7B8L4jCZzSqtXzsX14/AAhiZ5bfc97xSV0I=
+			uffgq+Ci1c1ajQl+8aeob/Yz26oNLA3ryjrAQTn2UXc=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OP0Fw/l5f4gaz7KjfMo7Z2WJ5tIaz5iwVEtUoCG670s=
+			Yg3i0K422XdakokFyqvRSCpjbTzYF0laY2XqIL4G6IA=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZtbDaEySRXeYUpAcaG0gLgtGx9Xrk4Vrrui0Py+Mvfo=
+			0ui9+BPDxuOiM0RiNkkamdtV4Xj7A6yJuop/LKN8KMk=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OP0Fw/l5f4gaz7KjfMo7Z2WJ5tIaz5iwVEtUoCG670s=
+			Yg3i0K422XdakokFyqvRSCpjbTzYF0laY2XqIL4G6IA=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OgXHlBiqIdG65JqxGMIpmU1sDn6Nf4489kHnYxOzGU0=
+			UiZvvuxRqw1mlbhcIsh+sigKn8cSld+bin+imve9bBM=
 			</data>
 		</dict>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
@@ -949,7 +982,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UV9+REbt553z63xaPGT/HIED1Xv/p68922a0j44ILYw=
+			tTOVbNhO811Pv89q2kY0ptask2eOzpIOYziGLkE8nLU=
 			</data>
 			<key>optional</key>
 			<true/>

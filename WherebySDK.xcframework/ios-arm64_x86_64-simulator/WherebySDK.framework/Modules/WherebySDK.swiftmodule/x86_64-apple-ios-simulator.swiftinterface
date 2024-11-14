@@ -1,14 +1,22 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
 // swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name WherebySDK
+import AVKit
 import DeveloperToolsSupport
 import Foundation
+import Photos
+import PhotosUI
 import Swift
 import SwiftUI
 import UIKit
+import UniformTypeIdentifiers
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+extension UIKit.UIRectCorner : Swift.Hashable {
+  public func hash(into hasher: inout Swift.Hasher)
+  public static func == (lhs: UIKit.UIRectCorner, rhs: UIKit.UIRectCorner) -> Swift.Bool
+}
 public protocol WherebyRoomViewControllerDelegate : AnyObject {
   func roomViewControllerDidJoinRoom(_ roomViewController: WherebySDK.WherebyRoomViewController)
   func roomViewControllerDidLeave(_ roomViewController: WherebySDK.WherebyRoomViewController)
