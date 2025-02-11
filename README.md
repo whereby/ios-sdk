@@ -86,6 +86,8 @@ After adding the Whereby SDK follow the next steps to set up your project:
 
 4. Disable bitcode. Whereby SDK does not support bitcode and in general it is being deprecated in Xcode 14 (currently in beta, see Apple Clang Compiler, Deprecations section in [Xcode 14 release notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-14-release-notes)). If your app's target enables bitcode then it needs to be disabled. In Xcode select your project file and then your app's target. In the target settings select the Build Settings tab. Search for **Enable Bitcode** setting (`ENABLE_BITCODE`) and set its value to **No**.
 
+5. If you are using CocoaPods as your dependency manager, make sure that `ENABLE_USER_SCRIPT_SANDBOXING` is set to `NO` in the project/target build settings.
+
 ## Usage
 
 For the complete example of the SDK usage try our [demo app](https://github.com/whereby/ios-sdk-demo).
