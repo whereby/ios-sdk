@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		XdaOQxy5mNWucAABYmvNIRri6lw=
+		5xlETJG+UHeFuc6bvZ2BrD8ByRs=
 		</data>
 		<key>AvatarMenuCell.nib</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OvhXAGfysD2JyPiWra+X7R36LMY=
+		w62tRziYvum0E/GhtHTnSfpm3ew=
 		</data>
 		<key>JoinRequest.storyboardc/57O-rc-RiG-view-IJy-Jh-bTc.nib</key>
 		<data>
@@ -222,43 +222,43 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		pNMH2Ze+c9Gao8aQVqkeYJx3pJI=
+		6P66KDs5jRrZcF/c/pZjZWhohQM=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		w0Wy4jDj64SFfbbghNJ3Y+UN3ps=
+		RcA8in5Z44+hCG6jzEu7Eq5emG0=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Esjmk7cKqnVntTM7heJtjPLG/fw=
+		Wubv9XQ0nPNeT3iul8gHunjbzDw=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		w0Wy4jDj64SFfbbghNJ3Y+UN3ps=
+		RcA8in5Z44+hCG6jzEu7Eq5emG0=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9e9Hkiz6mlQbWAoHuT8yKlWraYg=
+		24amSGTqeN5DmBh9yWObb1PjuuQ=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		pNMH2Ze+c9Gao8aQVqkeYJx3pJI=
+		6P66KDs5jRrZcF/c/pZjZWhohQM=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Qi+0RsbMs1X/eebs/BdxkxgoAS4=
+		AwCK29KD7V6Pfs7/6cHThZHXNnE=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		kx7Rj0jeuQMHF9MPEP7j4+q3Mts=
+		GJAwjvFnfsRYcW7e61nit43rmso=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Qi+0RsbMs1X/eebs/BdxkxgoAS4=
+		AwCK29KD7V6Pfs7/6cHThZHXNnE=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SMkRGIFMe47nlrP3PLyoWoIjH4w=
+		uU3HKsMVNDHmYwbMRIAUKpfzXKs=
 		</data>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
 		<data>
@@ -372,7 +372,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uIpvzg4yqWbFlAsyqFvjzX/ol9I=
+			wHcUbGZJMZVpDawSxGXTibKIz/A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -396,7 +396,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/U2zcs54qdnZ84nGxV4U1dyMRmAefwHEJvhckYc+QyQ=
+			j2WEs0e98nzGq7kOGRkpPWGz6Z2o/aNfKbmqECi1r8g=
 			</data>
 		</dict>
 		<key>AvatarMenuCell.nib</key>
@@ -767,70 +767,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RmgpM1OYcMk9miw0SkmvOVv59KICCa5bSFL4GnoUWag=
+			I47Dc4G7NW0xd7MbJPNU6rAE6YbOsiczjezJbFkywMw=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hYbOdYSRoXPPkQBD3kgVyj1wZupH2Z58h0InuVscMcM=
+			K3Yos7Wr1R8wKK4CEMee+xlP/50H+NV2h5Pzsj/AmWM=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lNURfb7LJtwl0+8NU1X8OUxOlZlsevcTWbMZJiAFQ18=
+			mcByqyQeovUaS0ehUI0Oy9AR99zvgdtZ0HNINxmFzj8=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hYbOdYSRoXPPkQBD3kgVyj1wZupH2Z58h0InuVscMcM=
+			K3Yos7Wr1R8wKK4CEMee+xlP/50H+NV2h5Pzsj/AmWM=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hA0snXdArQjXNsIClXvzMphyQJQH+SiYL6/eRGH7CWo=
+			4EQelu3K3Bsn+uLHoakidHIl5rLEgis2DyIDP5n4SaQ=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RmgpM1OYcMk9miw0SkmvOVv59KICCa5bSFL4GnoUWag=
+			I47Dc4G7NW0xd7MbJPNU6rAE6YbOsiczjezJbFkywMw=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/H/NNn7dxGkvcWpNyN5WiGphk42m8Rlb5CPyEWSsSIU=
+			uuIqY8vre1xucb7RLi+iV6dpdLcV8XMRad+J92+WD6E=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y0Og+llZRuEcNbIC1GYuOGHaubzdXuWbxXo6i+uD6Bk=
+			mADKKE6YFgtwqyj8B1TkOHAMFdXM7lj7uudMHD0HnNw=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/H/NNn7dxGkvcWpNyN5WiGphk42m8Rlb5CPyEWSsSIU=
+			uuIqY8vre1xucb7RLi+iV6dpdLcV8XMRad+J92+WD6E=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A//A2x4wj7X88xQCLzM/XztrHvQSbQ95LnEdJy1hvso=
+			W+7IeuP7yNrLdIbxslD1cAlSl79SfOEgqQsBGtAtaKA=
 			</data>
 		</dict>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
@@ -1026,7 +1026,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			izOeT4mfmHDZetqkOYrFCqjWdzdqFza0cjYCMg7zgcU=
+			JQ4h00iwmKmaGvlhHgpkot4i0Q/lSckVL7xDdEkjYuI=
 			</data>
 			<key>optional</key>
 			<true/>
