@@ -10,6 +10,7 @@ import Swift
 import SwiftUI
 import UIKit
 import UniformTypeIdentifiers
+import VideoToolbox
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims

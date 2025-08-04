@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		XdaOQxy5mNWucAABYmvNIRri6lw=
+		5xlETJG+UHeFuc6bvZ2BrD8ByRs=
 		</data>
 		<key>AvatarMenuCell.nib</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RiNECIjHzJjs1tYHgk4oSOPv4K4=
+		1hzYBo/QJ0Xz+252BqDmo/b/yLI=
 		</data>
 		<key>JoinRequest.storyboardc/57O-rc-RiG-view-IJy-Jh-bTc.nib</key>
 		<data>
@@ -222,23 +222,23 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		hRD8aDW8Cfm1LMbjzU/1Pp2Ak0U=
+		JCeZA2r+7Pk6REVkysx9ltvYGyc=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		eM4Ju4+qi5nt6/GQwM/lQsUp378=
+		FkydN1P6AlkusiM+2QiQIXWmMO8=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		X5XMxuOqRC6/1OGbsfD9flNGtt4=
+		IDH3lxldMsfYqlfkVRie7pkkJ6U=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		eM4Ju4+qi5nt6/GQwM/lQsUp378=
+		FkydN1P6AlkusiM+2QiQIXWmMO8=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Ln5gsRhYY1j1WMpk5FMXRbp+BUE=
+		47Ft6nnX1IH284yQ6L810X2jBpY=
 		</data>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
 		<data>
@@ -352,7 +352,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uIpvzg4yqWbFlAsyqFvjzX/ol9I=
+			wHcUbGZJMZVpDawSxGXTibKIz/A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -376,7 +376,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/U2zcs54qdnZ84nGxV4U1dyMRmAefwHEJvhckYc+QyQ=
+			j2WEs0e98nzGq7kOGRkpPWGz6Z2o/aNfKbmqECi1r8g=
 			</data>
 		</dict>
 		<key>AvatarMenuCell.nib</key>
@@ -747,35 +747,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r0Z81Jz3iqAxCgxPmTnw2E8DJx//PGM1FNyj/UiRmgU=
+			jrbVgLSzPIYfh9cH8c1IlJWAMdNwd2PPFOmYmGSUWe8=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t3B9UM9+gAQpDOqEywMP1kA8Uk85FEBwBNWkMt+uvxQ=
+			XwTxTLIXfeAs2rpF3uW6KKaAS6qA+OlQvCp5Ce888tk=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u4bx2INCnsbCI201mmd2nB2fmLYhqp1VNVuT31Q+GIg=
+			bNUZj77wb5/bxk/qNODPLOb0MTmTHwBRq7RJu4bpjP8=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t3B9UM9+gAQpDOqEywMP1kA8Uk85FEBwBNWkMt+uvxQ=
+			XwTxTLIXfeAs2rpF3uW6KKaAS6qA+OlQvCp5Ce888tk=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OHFGw63g1/tl4JFPeN0QuAdBD53DhYdVpuwkwFxUWW0=
+			TzRk7xYAHvmnrOJlgosSfLVVE7QZKrzvkwNxTFbnXfw=
 			</data>
 		</dict>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
@@ -971,7 +971,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			izOeT4mfmHDZetqkOYrFCqjWdzdqFza0cjYCMg7zgcU=
+			JQ4h00iwmKmaGvlhHgpkot4i0Q/lSckVL7xDdEkjYuI=
 			</data>
 			<key>optional</key>
 			<true/>
