@@ -2,7 +2,7 @@
 
 This repository contains the distribution files of the Whereby SDK framework and its dependencies.
 
-*Be informed that this is a beta version of the framework. For any comments, suggestions or questions, please reach out to our customer support: embedded@whereby.com*.
+*For any comments, suggestions or questions, please reach out to our customer support: embedded@whereby.com*.
 
 Other platforms: 
 - [Android SDK](https://github.com/whereby/android-sdk)
