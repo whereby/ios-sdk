@@ -1,3 +1,6 @@
+> [!WARNING]
+> CocoaPods: New versions of the Whereby iOS SDK will no longer be published to CocoaPods after **October 2026**. Existing CocoaPods versions will remain available and installations will remain functional. Please migrate to Swift Package Manager.
+
 # iOS SDK for Whereby Embedded
 
 This repository contains the distribution files of the Whereby SDK framework and its dependencies.
