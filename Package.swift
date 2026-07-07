@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "WherebySDK",
     platforms: [
-        .iOS(.v14)
+        .iOS("16.0")
     ],
     products: [
         .library(
