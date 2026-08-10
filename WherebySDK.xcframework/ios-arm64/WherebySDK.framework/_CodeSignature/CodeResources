@@ -6,15 +6,15 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		62NT0PAM/+NZCYxLmwOT9aM6CJY=
+		xrNQ8aoDYCi21K0eimfjamSQyAw=
 		</data>
 		<key>AvatarMenuCell.nib</key>
 		<data>
 		LgWfMByMu/Gx3cAcfG13vOaeJvE=
 		</data>
-		<key>BasicBannerNotificationView.nib</key>
+		<key>BannerNotificationView.nib</key>
 		<data>
-		7WU4pfnCG/ens2ib9CI8V/KQbk0=
+		WMTp9iahM74JEWTjaXFo9i0MZv4=
 		</data>
 		<key>Chat.storyboardc/ChatDisplayFileViewController.nib</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7xmtGuhCBYQTu0dHvsn18gEOW7c=
+		zCFyk+cT5l7gMVB7vPc2R3DkerE=
 		</data>
 		<key>JoinRequest.storyboardc/57O-rc-RiG-view-IJy-Jh-bTc.nib</key>
 		<data>
@@ -222,23 +222,23 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		V9zSODrATt6BO8AytGpvPekZPdE=
+		W4dJpqDGuCVG2UI9o/TYv3XgdME=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		dEt7rV11NQvpcNMDhJUU5FlKIhs=
+		a77gPe0MdDBWoEN1WWmW7wzhnN8=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		tS11uMyNuiKjPxbQxahb/2Ui458=
+		K1LTCTtt22mvJzbHXQHr02n4FPM=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		dEt7rV11NQvpcNMDhJUU5FlKIhs=
+		a77gPe0MdDBWoEN1WWmW7wzhnN8=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WXkWgp049Sfl+9t8pubFpU+z1eA=
+		PV+ttjxfdZJ932ct39qSnMIlfZw=
 		</data>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
 		<data>
@@ -360,10 +360,6 @@
 		<data>
 		0bdu5PIFIe/isScEVzB3TtZbZ1Q=
 		</data>
-		<key>TimeLimitedRoomBannerNotificationView.nib</key>
-		<data>
-		+vU+5blptQ8nlc79/IqFTMoBDTU=
-		</data>
 		<key>WherebyRoslindaleDisplayCondensed-Regular.otf</key>
 		<data>
 		QNfglApfVGJo3Zklxi5i+Wp8ro0=
@@ -380,7 +376,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rlepok4qNfMWOFjuIXhLAtiNZjA=
+			jLF6AzAdfZ2TxXIvoyFKbntplV4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -404,7 +400,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VozQGpIeqhR4rqVBdbnIDr/hO9wClMQ1aKFwkbPwlOU=
+			0W3eR//tUKrDn26B0X15vsk+2b2x2AajiVG5StHy5qM=
 			</data>
 		</dict>
 		<key>AvatarMenuCell.nib</key>
@@ -414,11 +410,11 @@
 			mf8tmJ1s8ubQEMWaypiOTVeW5pXUApFz7IgIhyxU25A=
 			</data>
 		</dict>
-		<key>BasicBannerNotificationView.nib</key>
+		<key>BannerNotificationView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			28zqhaWMtD3JiKVf5lPoIRcYki7H+Pkbpg62ofYnKhY=
+			iLIP+X9xNV9Kc32AMMZMjoSGXtj6ICqvFsc7qEkGoEg=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/ChatDisplayFileViewController.nib</key>
@@ -775,35 +771,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xkfLMo76ekDzPjyAIxv2UZh1AJSV7FiBjP03rts11Ww=
+			Gwp2Pn6xU0uenpvHCaxaOZlrBLnrDAhGXzxjhjnRPUY=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iOB89FLrKkkNoq1CDI2wjDf6YklS1v9KLsIOVV4jMds=
+			IvUH2CayE02KIAOOvMP5vjUM9EgnQrr+r4l1GahbQKE=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OAn6WrwJPf0li8NgDkOnvRlBNNiVjT36jelw7q+2ylY=
+			ZtJOSuYA9qj73alqf6BEE5ItlQcq382MsYMZGZX2c+o=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iOB89FLrKkkNoq1CDI2wjDf6YklS1v9KLsIOVV4jMds=
+			IvUH2CayE02KIAOOvMP5vjUM9EgnQrr+r4l1GahbQKE=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ia/fcCHPNigB8DipNM4AxBlfXXBw2pFOI9FoOGcFu+8=
+			yVXFiVzcV1vDXDrh1LsDUUW//uxCE3zFogU2W1wdq0U=
 			</data>
 		</dict>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
@@ -1016,13 +1012,6 @@
 			BQRSVYyLtTyKYlUeXzoKxsrRwqzRnslj9i/wLIEDfmo=
 			</data>
 		</dict>
-		<key>TimeLimitedRoomBannerNotificationView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Qbl0XIeO6OrknGoDCT8LAgfRlvokRUxSYswrNTVEn/8=
-			</data>
-		</dict>
 		<key>WherebyRoslindaleDisplayCondensed-Regular.otf</key>
 		<dict>
 			<key>hash2</key>
@@ -1048,7 +1037,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6SpdKuUxgUKP8pyPoTqLnifWPo92lSvEvI2pDYYpQts=
+			kDXZote4awhUNV2gwYtejIsqanMpsB1S/fJ5tSnith8=
 			</data>
 			<key>optional</key>
 			<true/>

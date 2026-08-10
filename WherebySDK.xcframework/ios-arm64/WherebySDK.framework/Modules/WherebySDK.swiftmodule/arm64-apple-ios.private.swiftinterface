@@ -15,9 +15,36 @@ import VideoToolbox
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+public struct WherebyAppearance {
+  public static let `default`: WherebySDK.WherebyAppearance
+  public var colorBundle: Foundation.Bundle?
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(colorBundle: Foundation.Bundle? = .main)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public mutating func overrideColor(_ color: UIKit.UIColor?, for token: WherebySDK.WherebyColorToken)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func overridingColor(_ color: UIKit.UIColor?, for token: WherebySDK.WherebyColorToken) -> WherebySDK.WherebyAppearance
+  #endif
+}
 public struct LocalizedDescriptionError : Foundation.LocalizedError {
   public let errorDescription: Swift.String?
   public init(_ description: Swift.String)
+}
+public enum WherebyColorToken : Swift.String, Swift.CaseIterable {
+  case accentPrimaryDefault
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init?(rawValue: Swift.String)
+  #endif
+  public typealias AllCases = [WherebySDK.WherebyColorToken]
+  public typealias RawValue = Swift.String
+  nonisolated public static var allCases: [WherebySDK.WherebyColorToken] {
+    get
+  }
+  public var rawValue: Swift.String {
+    get
+  }
 }
 public protocol WherebyRoomViewControllerDelegate : AnyObject {
   func roomViewControllerDidJoinRoom(_ roomViewController: WherebySDK.WherebyRoomViewController)
@@ -75,5 +102,8 @@ public struct WherebyRoomConfig {
   public init(url: Foundation.URL, mediaMode: WherebySDK.MediaMode? = nil, skipRoomPushAnimation: Swift.Bool = false, isLockingSettingsGloballyHidden: Swift.Bool = false)
   #endif
 }
+extension WherebySDK.WherebyColorToken : Swift.Equatable {}
+extension WherebySDK.WherebyColorToken : Swift.Hashable {}
+extension WherebySDK.WherebyColorToken : Swift.RawRepresentable {}
 extension WherebySDK.MediaMode : Swift.Equatable {}
 extension WherebySDK.MediaMode : Swift.Hashable {}
