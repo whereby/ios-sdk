@@ -12,9 +12,9 @@
 		<data>
 		LgWfMByMu/Gx3cAcfG13vOaeJvE=
 		</data>
-		<key>BasicBannerNotificationView.nib</key>
+		<key>BannerNotificationView.nib</key>
 		<data>
-		7WU4pfnCG/ens2ib9CI8V/KQbk0=
+		WMTp9iahM74JEWTjaXFo9i0MZv4=
 		</data>
 		<key>Chat.storyboardc/ChatDisplayFileViewController.nib</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7xmtGuhCBYQTu0dHvsn18gEOW7c=
+		zCFyk+cT5l7gMVB7vPc2R3DkerE=
 		</data>
 		<key>JoinRequest.storyboardc/57O-rc-RiG-view-IJy-Jh-bTc.nib</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		V9zSODrATt6BO8AytGpvPekZPdE=
+		wfNGvl4rOtQp2IA4/VjWBp0nOqQ=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		tS11uMyNuiKjPxbQxahb/2Ui458=
+		0byzHBO2ndkFvH4ZwwARs/++Ayw=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
@@ -238,7 +238,7 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WXkWgp049Sfl+9t8pubFpU+z1eA=
+		bVmMaY8D32YLQCwufpVI3s6wJxc=
 		</data>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
 		<data>
@@ -360,10 +360,6 @@
 		<data>
 		0bdu5PIFIe/isScEVzB3TtZbZ1Q=
 		</data>
-		<key>TimeLimitedRoomBannerNotificationView.nib</key>
-		<data>
-		+vU+5blptQ8nlc79/IqFTMoBDTU=
-		</data>
 		<key>WherebyRoslindaleDisplayCondensed-Regular.otf</key>
 		<data>
 		QNfglApfVGJo3Zklxi5i+Wp8ro0=
@@ -380,7 +376,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rlepok4qNfMWOFjuIXhLAtiNZjA=
+			jLF6AzAdfZ2TxXIvoyFKbntplV4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -414,11 +410,11 @@
 			mf8tmJ1s8ubQEMWaypiOTVeW5pXUApFz7IgIhyxU25A=
 			</data>
 		</dict>
-		<key>BasicBannerNotificationView.nib</key>
+		<key>BannerNotificationView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			28zqhaWMtD3JiKVf5lPoIRcYki7H+Pkbpg62ofYnKhY=
+			iLIP+X9xNV9Kc32AMMZMjoSGXtj6ICqvFsc7qEkGoEg=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/ChatDisplayFileViewController.nib</key>
@@ -775,7 +771,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xkfLMo76ekDzPjyAIxv2UZh1AJSV7FiBjP03rts11Ww=
+			s/9ylkGEkQ1BLcAIDHsKRvWS7helKGAwbQVGrfYmDIs=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -789,7 +785,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OAn6WrwJPf0li8NgDkOnvRlBNNiVjT36jelw7q+2ylY=
+			J8oZyKCnrTTJ0Xv9P8js46WZBHD9B/e8L620IbCoh+A=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
@@ -803,7 +799,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ia/fcCHPNigB8DipNM4AxBlfXXBw2pFOI9FoOGcFu+8=
+			OEnAttfa4alqObBD2EsObCcgXolujUuQzXIWkUTOepk=
 			</data>
 		</dict>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
@@ -1016,13 +1012,6 @@
 			BQRSVYyLtTyKYlUeXzoKxsrRwqzRnslj9i/wLIEDfmo=
 			</data>
 		</dict>
-		<key>TimeLimitedRoomBannerNotificationView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Qbl0XIeO6OrknGoDCT8LAgfRlvokRUxSYswrNTVEn/8=
-			</data>
-		</dict>
 		<key>WherebyRoslindaleDisplayCondensed-Regular.otf</key>
 		<dict>
 			<key>hash2</key>
@@ -1048,7 +1037,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6SpdKuUxgUKP8pyPoTqLnifWPo92lSvEvI2pDYYpQts=
+			kDXZote4awhUNV2gwYtejIsqanMpsB1S/fJ5tSnith8=
 			</data>
 			<key>optional</key>
 			<true/>

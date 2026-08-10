@@ -2688,41 +2688,6 @@
           },
           {
             "kind": "Var",
-            "name": "uiConnectionNotifier",
-            "printedName": "uiConnectionNotifier",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "WherebySDK.AIUIConnectionNotifier?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "AIUIConnectionNotifier",
-                    "printedName": "WherebySDK.AIUIConnectionNotifier",
-                    "usr": "s:10WherebySDK22AIUIConnectionNotifierC"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:10WherebySDK18RoomViewControllerC20uiConnectionNotifier33_CB4BE4B2430EA8AC2F28CBC53F561930LLAA014AIUIConnectionH0CSgvp",
-            "mangledName": "$s10WherebySDK18RoomViewControllerC20uiConnectionNotifier33_CB4BE4B2430EA8AC2F28CBC53F561930LLAA014AIUIConnectionH0CSgvp",
-            "moduleName": "WherebySDK",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 9,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
             "name": "hasSeenOtherClients",
             "printedName": "hasSeenOtherClients",
             "children": [
@@ -2745,7 +2710,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 10,
+            "fixedbinaryorder": 9,
             "hasStorage": true
           },
           {
@@ -2772,7 +2737,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 11,
+            "fixedbinaryorder": 10,
             "hasStorage": true
           },
           {
@@ -2807,7 +2772,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 12,
+            "fixedbinaryorder": 11,
             "hasStorage": true
           },
           {
@@ -2842,7 +2807,7 @@
               "HasStorage",
               "SetterAccess"
             ],
-            "fixedbinaryorder": 13,
+            "fixedbinaryorder": 12,
             "hasStorage": true,
             "accessors": [
               {
@@ -2907,7 +2872,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 14,
+            "fixedbinaryorder": 13,
             "hasStorage": true
           },
           {
@@ -2934,7 +2899,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 15,
+            "fixedbinaryorder": 14,
             "hasStorage": true
           },
           {
@@ -2961,7 +2926,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 16,
+            "fixedbinaryorder": 15,
             "hasStorage": true
           },
           {
@@ -2988,7 +2953,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 17,
+            "fixedbinaryorder": 16,
             "hasStorage": true
           },
           {
@@ -3015,7 +2980,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 18,
+            "fixedbinaryorder": 17,
             "hasStorage": true
           },
           {
@@ -3042,7 +3007,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 19,
+            "fixedbinaryorder": 18,
             "hasStorage": true
           },
           {
@@ -3069,7 +3034,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 20,
+            "fixedbinaryorder": 19,
             "hasStorage": true
           },
           {
@@ -3104,7 +3069,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 21,
+            "fixedbinaryorder": 20,
             "hasStorage": true
           },
           {
@@ -3139,7 +3104,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 22,
+            "fixedbinaryorder": 21,
             "hasStorage": true
           },
           {
@@ -3174,7 +3139,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 23,
+            "fixedbinaryorder": 22,
             "hasStorage": true
           },
           {
@@ -3209,7 +3174,7 @@
               "HasStorage",
               "AccessControl"
             ],
-            "fixedbinaryorder": 24,
+            "fixedbinaryorder": 23,
             "hasStorage": true
           },
           {
@@ -3235,6 +3200,41 @@
             "declKind": "Var",
             "usr": "s:10WherebySDK18RoomViewControllerC018endMeetingProgressD5Timer33_CB4BE4B2430EA8AC2F28CBC53F561930LLSo7NSTimerCSgvp",
             "mangledName": "$s10WherebySDK18RoomViewControllerC018endMeetingProgressD5Timer33_CB4BE4B2430EA8AC2F28CBC53F561930LLSo7NSTimerCSgvp",
+            "moduleName": "WherebySDK",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 24,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "connectingBannerNotificationView",
+            "printedName": "connectingBannerNotificationView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "WherebySDK.BannerNotificationView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BannerNotificationView",
+                    "printedName": "WherebySDK.BannerNotificationView",
+                    "usr": "c:@M@WherebySDK@objc(cs)BannerNotificationView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10WherebySDK18RoomViewControllerC028connectingBannerNotificationD033_CB4BE4B2430EA8AC2F28CBC53F561930LLAA0ghD0CSgvp",
+            "mangledName": "$s10WherebySDK18RoomViewControllerC028connectingBannerNotificationD033_CB4BE4B2430EA8AC2F28CBC53F561930LLAA0ghD0CSgvp",
             "moduleName": "WherebySDK",
             "isInternal": true,
             "declAttributes": [
@@ -19167,616 +19167,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "WherebySDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "WherebySDK"
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "TimeLimitedRoomBannerNotificationView",
-        "printedName": "TimeLimitedRoomBannerNotificationView",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "message",
-            "printedName": "message",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC7messageSSSgvp",
-            "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC7messageSSSgvp",
-            "moduleName": "WherebySDK",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "fixedbinaryorder": 0,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC7messageSSSgvg",
-                "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC7messageSSSgvg",
-                "moduleName": "WherebySDK",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC7messageSSSgvs",
-                "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC7messageSSSgvs",
-                "moduleName": "WherebySDK",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC7messageSSSgvM",
-                "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC7messageSSSgvM",
-                "moduleName": "WherebySDK",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "circularProgress",
-            "printedName": "circularProgress",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Double",
-                "printedName": "Swift.Double",
-                "usr": "s:Sd"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC16circularProgressSdvp",
-            "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC16circularProgressSdvp",
-            "moduleName": "WherebySDK",
-            "isOpen": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "fixedbinaryorder": 1,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Double",
-                    "printedName": "Swift.Double",
-                    "usr": "s:Sd"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC16circularProgressSdvg",
-                "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC16circularProgressSdvg",
-                "moduleName": "WherebySDK",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Double",
-                    "printedName": "Swift.Double",
-                    "usr": "s:Sd"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC16circularProgressSdvs",
-                "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC16circularProgressSdvs",
-                "moduleName": "WherebySDK",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC16circularProgressSdvM",
-                "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC16circularProgressSdvM",
-                "moduleName": "WherebySDK",
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "level",
-            "printedName": "level",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Level",
-                "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC5levelAA05EmptyfgH0C5LevelOvp",
-            "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC5levelAA05EmptyfgH0C5LevelOvp",
-            "moduleName": "WherebySDK",
-            "overriding": true,
-            "isOpen": true,
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Level",
-                    "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                    "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC5levelAA05EmptyfgH0C5LevelOvg",
-                "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC5levelAA05EmptyfgH0C5LevelOvg",
-                "moduleName": "WherebySDK",
-                "overriding": true,
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Level",
-                    "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                    "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC5levelAA05EmptyfgH0C5LevelOvs",
-                "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC5levelAA05EmptyfgH0C5LevelOvs",
-                "moduleName": "WherebySDK",
-                "overriding": true,
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC5levelAA05EmptyfgH0C5LevelOvM",
-                "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC5levelAA05EmptyfgH0C5LevelOvM",
-                "moduleName": "WherebySDK",
-                "overriding": true,
-                "implicit": true,
-                "isOpen": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
-            "name": "circularProgressView",
-            "printedName": "circularProgressView",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "WeakStorage",
-                "printedName": "WherebySDK.CircularProgressView?"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC016circularProgressH033_4F01DC9CD8E30A3C0FA74B754B87727DLLAA08CircularjH0CSgvp",
-            "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC016circularProgressH033_4F01DC9CD8E30A3C0FA74B754B87727DLLAA08CircularjH0CSgvp",
-            "moduleName": "WherebySDK",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "ReferenceOwnership",
-              "AccessControl",
-              "IBOutlet",
-              "RawDocComment",
-              "ObjC"
-            ],
-            "fixedbinaryorder": 2,
-            "ownership": 1,
-            "hasStorage": true
-          },
-          {
-            "kind": "Var",
-            "name": "messageLabel",
-            "printedName": "messageLabel",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "WeakStorage",
-                "printedName": "UIKit.UILabel?"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC12messageLabel33_4F01DC9CD8E30A3C0FA74B754B87727DLLSo7UILabelCSgvp",
-            "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC12messageLabel33_4F01DC9CD8E30A3C0FA74B754B87727DLLSo7UILabelCSgvp",
-            "moduleName": "WherebySDK",
-            "isInternal": true,
-            "declAttributes": [
-              "HasInitialValue",
-              "Preconcurrency",
-              "Custom",
-              "HasStorage",
-              "ReferenceOwnership",
-              "AccessControl",
-              "IBOutlet",
-              "ObjC"
-            ],
-            "fixedbinaryorder": 3,
-            "ownership": 1,
-            "hasStorage": true
-          },
-          {
-            "kind": "Function",
-            "name": "commonInit",
-            "printedName": "commonInit()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:10WherebySDK37TimeLimitedRoomBannerNotificationViewC10commonInityyF",
-            "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC10commonInityyF",
-            "moduleName": "WherebySDK",
-            "overriding": true,
-            "isOpen": true,
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(frame:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "TimeLimitedRoomBannerNotificationView",
-                "printedName": "WherebySDK.TimeLimitedRoomBannerNotificationView",
-                "usr": "c:@M@WherebySDK@objc(cs)TimeLimitedRoomBannerNotificationView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGRect",
-                "printedName": "CoreFoundation.CGRect",
-                "usr": "c:@S@CGRect"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@WherebySDK@objc(cs)TimeLimitedRoomBannerNotificationView(im)initWithFrame:",
-            "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC5frameACSo6CGRectV_tcfc",
-            "moduleName": "WherebySDK",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithFrame:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(coder:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "WherebySDK.TimeLimitedRoomBannerNotificationView?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "TimeLimitedRoomBannerNotificationView",
-                    "printedName": "WherebySDK.TimeLimitedRoomBannerNotificationView",
-                    "usr": "c:@M@WherebySDK@objc(cs)TimeLimitedRoomBannerNotificationView"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "NSCoder",
-                "printedName": "Foundation.NSCoder",
-                "usr": "c:objc(cs)NSCoder"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "c:@M@WherebySDK@objc(cs)TimeLimitedRoomBannerNotificationView(im)initWithCoder:",
-            "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC5coderACSgSo7NSCoderC_tcfc",
-            "moduleName": "WherebySDK",
-            "overriding": true,
-            "implicit": true,
-            "objc_name": "initWithCoder:",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Required"
-            ],
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "c:@M@WherebySDK@objc(cs)TimeLimitedRoomBannerNotificationView",
-        "mangledName": "$s10WherebySDK37TimeLimitedRoomBannerNotificationViewC",
-        "moduleName": "WherebySDK",
-        "isOpen": true,
-        "declAttributes": [
-          "Preconcurrency",
-          "Custom",
-          "AccessControl",
-          "ObjC"
-        ],
-        "superclassUsr": "c:@M@WherebySDK@objc(cs)EmptyBannerNotificationView",
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "WherebySDK.EmptyBannerNotificationView",
-          "WherebySDK.NibView",
-          "UIKit.UIView",
-          "UIKit.UIResponder",
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "BundleProviding",
-            "printedName": "BundleProviding",
-            "usr": "s:10WherebySDK15BundleProvidingP",
-            "mangledName": "$s10WherebySDK15BundleProvidingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "UITraitChangeObservable",
-            "printedName": "UITraitChangeObservable",
-            "usr": "s:5UIKit23UITraitChangeObservableP",
-            "mangledName": "$s5UIKit23UITraitChangeObservableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "__DefaultCustomPlaygroundQuickLookable",
-            "printedName": "__DefaultCustomPlaygroundQuickLookable",
-            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
-            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "SendableMetatype",
-            "printedName": "SendableMetatype",
-            "usr": "s:s16SendableMetatypeP",
-            "mangledName": "$ss16SendableMetatypeP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -33637,72 +33027,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "WherebySDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "AIUIConnectionNotifier",
-        "printedName": "AIUIConnectionNotifier",
-        "children": [
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "AIUIConnectionNotifier",
-                "printedName": "WherebySDK.AIUIConnectionNotifier",
-                "usr": "s:10WherebySDK22AIUIConnectionNotifierC"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:10WherebySDK22AIUIConnectionNotifierCACycfc",
-            "mangledName": "$s10WherebySDK22AIUIConnectionNotifierCACycfc",
-            "moduleName": "WherebySDK",
-            "init_kind": "Designated"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "s:10WherebySDK22AIUIConnectionNotifierC",
-        "mangledName": "$s10WherebySDK22AIUIConnectionNotifierC",
-        "moduleName": "WherebySDK",
-        "isOpen": true,
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "BundleProviding",
-            "printedName": "BundleProviding",
-            "usr": "s:10WherebySDK15BundleProvidingP",
-            "mangledName": "$s10WherebySDK15BundleProvidingP"
-          }
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -44949,8 +44273,8 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "WherebySDK",
         "declAttributes": [
@@ -44958,17 +44282,327 @@
         ]
       },
       {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "WherebySDK"
-      },
-      {
         "kind": "TypeDecl",
-        "name": "BasicBannerNotificationView",
-        "printedName": "BasicBannerNotificationView",
+        "name": "BannerNotificationView",
+        "printedName": "BannerNotificationView",
         "children": [
+          {
+            "kind": "TypeDecl",
+            "name": "LeadingAccessory",
+            "printedName": "LeadingAccessory",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "image",
+                "printedName": "image",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(WherebySDK.BannerNotificationView.LeadingAccessory.Type) -> (UIKit.UIImage) -> WherebySDK.BannerNotificationView.LeadingAccessory",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(UIKit.UIImage) -> WherebySDK.BannerNotificationView.LeadingAccessory",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LeadingAccessory",
+                            "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory",
+                            "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "UIImage",
+                            "printedName": "UIKit.UIImage",
+                            "usr": "c:objc(cs)UIImage"
+                          }
+                        ]
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LeadingAccessory",
+                            "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory",
+                            "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO5imageyAESo7UIImageCcAEmF",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC16LeadingAccessoryO5imageyAESo7UIImageCcAEmF",
+                "moduleName": "WherebySDK",
+                "fixedbinaryorder": 0
+              },
+              {
+                "kind": "Var",
+                "name": "spinner",
+                "printedName": "spinner",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(WherebySDK.BannerNotificationView.LeadingAccessory.Type) -> WherebySDK.BannerNotificationView.LeadingAccessory",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LeadingAccessory",
+                        "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory",
+                        "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LeadingAccessory",
+                            "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory",
+                            "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO7spinneryA2EmF",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC16LeadingAccessoryO7spinneryA2EmF",
+                "moduleName": "WherebySDK",
+                "fixedbinaryorder": 1
+              },
+              {
+                "kind": "Var",
+                "name": "progressRing",
+                "printedName": "progressRing",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(WherebySDK.BannerNotificationView.LeadingAccessory.Type) -> (Swift.Double) -> WherebySDK.BannerNotificationView.LeadingAccessory",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "(Swift.Double) -> WherebySDK.BannerNotificationView.LeadingAccessory",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LeadingAccessory",
+                            "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory",
+                            "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Double",
+                            "printedName": "Swift.Double",
+                            "usr": "s:Sd"
+                          }
+                        ]
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LeadingAccessory",
+                            "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory",
+                            "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO12progressRingyAESdcAEmF",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC16LeadingAccessoryO12progressRingyAESdcAEmF",
+                "moduleName": "WherebySDK",
+                "fixedbinaryorder": 2
+              },
+              {
+                "kind": "Var",
+                "name": "none",
+                "printedName": "none",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(WherebySDK.BannerNotificationView.LeadingAccessory.Type) -> WherebySDK.BannerNotificationView.LeadingAccessory",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LeadingAccessory",
+                        "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory",
+                        "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "LeadingAccessory",
+                            "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory",
+                            "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO4noneyA2EmF",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC16LeadingAccessoryO4noneyA2EmF",
+                "moduleName": "WherebySDK",
+                "fixedbinaryorder": 3
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO",
+            "mangledName": "$s10WherebySDK22BannerNotificationViewC16LeadingAccessoryO",
+            "moduleName": "WherebySDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isEnumExhaustive": true,
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Sendable",
+                "printedName": "Sendable",
+                "usr": "s:s8SendableP",
+                "mangledName": "$ss8SendableP"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "level",
+            "printedName": "level",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Level",
+                "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10WherebySDK22BannerNotificationViewC5levelAA04BasecdE0C5LevelOvp",
+            "mangledName": "$s10WherebySDK22BannerNotificationViewC5levelAA04BasecdE0C5LevelOvp",
+            "moduleName": "WherebySDK",
+            "overriding": true,
+            "declAttributes": [
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Level",
+                    "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                    "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10WherebySDK22BannerNotificationViewC5levelAA04BasecdE0C5LevelOvg",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC5levelAA04BasecdE0C5LevelOvg",
+                "moduleName": "WherebySDK",
+                "overriding": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Level",
+                    "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                    "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10WherebySDK22BannerNotificationViewC5levelAA04BasecdE0C5LevelOvs",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC5levelAA04BasecdE0C5LevelOvs",
+                "moduleName": "WherebySDK",
+                "overriding": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10WherebySDK22BannerNotificationViewC5levelAA04BasecdE0C5LevelOvM",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC5levelAA04BasecdE0C5LevelOvM",
+                "moduleName": "WherebySDK",
+                "overriding": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
           {
             "kind": "Var",
             "name": "message",
@@ -44990,17 +44624,16 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:10WherebySDK27BasicBannerNotificationViewC7messageSSSgvp",
-            "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC7messageSSSgvp",
+            "usr": "s:10WherebySDK22BannerNotificationViewC7messageSSSgvp",
+            "mangledName": "$s10WherebySDK22BannerNotificationViewC7messageSSSgvp",
             "moduleName": "WherebySDK",
-            "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
+              "Final",
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl",
-              "RawDocComment"
+              "AccessControl"
             ],
             "fixedbinaryorder": 0,
             "hasStorage": true,
@@ -45026,11 +44659,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27BasicBannerNotificationViewC7messageSSSgvg",
-                "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC7messageSSSgvg",
+                "usr": "s:10WherebySDK22BannerNotificationViewC7messageSSSgvg",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC7messageSSSgvg",
                 "moduleName": "WherebySDK",
                 "implicit": true,
-                "isOpen": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "get"
               },
               {
@@ -45059,11 +44694,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27BasicBannerNotificationViewC7messageSSSgvs",
-                "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC7messageSSSgvs",
+                "usr": "s:10WherebySDK22BannerNotificationViewC7messageSSSgvs",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC7messageSSSgvs",
                 "moduleName": "WherebySDK",
                 "implicit": true,
-                "isOpen": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "set"
               },
               {
@@ -45078,42 +44715,36 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27BasicBannerNotificationViewC7messageSSSgvM",
-                "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC7messageSSSgvM",
+                "usr": "s:10WherebySDK22BannerNotificationViewC7messageSSSgvM",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC7messageSSSgvM",
                 "moduleName": "WherebySDK",
                 "implicit": true,
-                "isOpen": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "_modify"
               }
             ]
           },
           {
             "kind": "Var",
-            "name": "image",
-            "printedName": "image",
+            "name": "leadingAccessory",
+            "printedName": "leadingAccessory",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIImage?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIImage",
-                    "printedName": "UIKit.UIImage",
-                    "usr": "c:objc(cs)UIImage"
-                  }
-                ],
-                "usr": "s:Sq"
+                "name": "LeadingAccessory",
+                "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory",
+                "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO"
               }
             ],
             "declKind": "Var",
-            "usr": "s:10WherebySDK27BasicBannerNotificationViewC5imageSo7UIImageCSgvp",
-            "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC5imageSo7UIImageCSgvp",
+            "usr": "s:10WherebySDK22BannerNotificationViewC16leadingAccessoryAC07LeadingG0Ovp",
+            "mangledName": "$s10WherebySDK22BannerNotificationViewC16leadingAccessoryAC07LeadingG0Ovp",
             "moduleName": "WherebySDK",
-            "isOpen": true,
             "declAttributes": [
               "HasInitialValue",
+              "Final",
               "Preconcurrency",
               "Custom",
               "HasStorage",
@@ -45129,25 +44760,19 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "UIKit.UIImage?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "UIImage",
-                        "printedName": "UIKit.UIImage",
-                        "usr": "c:objc(cs)UIImage"
-                      }
-                    ],
-                    "usr": "s:Sq"
+                    "name": "LeadingAccessory",
+                    "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory",
+                    "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27BasicBannerNotificationViewC5imageSo7UIImageCSgvg",
-                "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC5imageSo7UIImageCSgvg",
+                "usr": "s:10WherebySDK22BannerNotificationViewC16leadingAccessoryAC07LeadingG0Ovg",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC16leadingAccessoryAC07LeadingG0Ovg",
                 "moduleName": "WherebySDK",
                 "implicit": true,
-                "isOpen": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "get"
               },
               {
@@ -45162,25 +44787,19 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "UIKit.UIImage?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "UIImage",
-                        "printedName": "UIKit.UIImage",
-                        "usr": "c:objc(cs)UIImage"
-                      }
-                    ],
-                    "usr": "s:Sq"
+                    "name": "LeadingAccessory",
+                    "printedName": "WherebySDK.BannerNotificationView.LeadingAccessory",
+                    "usr": "s:10WherebySDK22BannerNotificationViewC16LeadingAccessoryO"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27BasicBannerNotificationViewC5imageSo7UIImageCSgvs",
-                "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC5imageSo7UIImageCSgvs",
+                "usr": "s:10WherebySDK22BannerNotificationViewC16leadingAccessoryAC07LeadingG0Ovs",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC16leadingAccessoryAC07LeadingG0Ovs",
                 "moduleName": "WherebySDK",
                 "implicit": true,
-                "isOpen": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "set"
               },
               {
@@ -45195,11 +44814,13 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27BasicBannerNotificationViewC5imageSo7UIImageCSgvM",
-                "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC5imageSo7UIImageCSgvM",
+                "usr": "s:10WherebySDK22BannerNotificationViewC16leadingAccessoryAC07LeadingG0OvM",
+                "mangledName": "$s10WherebySDK22BannerNotificationViewC16leadingAccessoryAC07LeadingG0OvM",
                 "moduleName": "WherebySDK",
                 "implicit": true,
-                "isOpen": true,
+                "declAttributes": [
+                  "Final"
+                ],
                 "accessorKind": "_modify"
               }
             ]
@@ -45216,12 +44837,13 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:10WherebySDK27BasicBannerNotificationViewC05imageF033_D463D1B3EEDF4246D3C25F65462D08D8LLSo07UIImageF0CSgvp",
-            "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC05imageF033_D463D1B3EEDF4246D3C25F65462D08D8LLSo07UIImageF0CSgvp",
+            "usr": "s:10WherebySDK22BannerNotificationViewC05imageE033_FF07BBE771F99FB8981239B0103286F6LLSo07UIImageE0CSgvp",
+            "mangledName": "$s10WherebySDK22BannerNotificationViewC05imageE033_FF07BBE771F99FB8981239B0103286F6LLSo07UIImageE0CSgvp",
             "moduleName": "WherebySDK",
             "isInternal": true,
             "declAttributes": [
               "HasInitialValue",
+              "Final",
               "Preconcurrency",
               "Custom",
               "HasStorage",
@@ -45237,22 +44859,23 @@
           },
           {
             "kind": "Var",
-            "name": "messageLabel",
-            "printedName": "messageLabel",
+            "name": "activityIndicatorView",
+            "printedName": "activityIndicatorView",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "WeakStorage",
-                "printedName": "UIKit.UILabel?"
+                "printedName": "UIKit.UIActivityIndicatorView?"
               }
             ],
             "declKind": "Var",
-            "usr": "s:10WherebySDK27BasicBannerNotificationViewC12messageLabel33_D463D1B3EEDF4246D3C25F65462D08D8LLSo7UILabelCSgvp",
-            "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC12messageLabel33_D463D1B3EEDF4246D3C25F65462D08D8LLSo7UILabelCSgvp",
+            "usr": "s:10WherebySDK22BannerNotificationViewC017activityIndicatorE033_FF07BBE771F99FB8981239B0103286F6LLSo010UIActivitygE0CSgvp",
+            "mangledName": "$s10WherebySDK22BannerNotificationViewC017activityIndicatorE033_FF07BBE771F99FB8981239B0103286F6LLSo010UIActivitygE0CSgvp",
             "moduleName": "WherebySDK",
             "isInternal": true,
             "declAttributes": [
               "HasInitialValue",
+              "Final",
               "Preconcurrency",
               "Custom",
               "HasStorage",
@@ -45266,15 +44889,102 @@
             "hasStorage": true
           },
           {
+            "kind": "Var",
+            "name": "progressRingView",
+            "printedName": "progressRingView",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "WherebySDK.CircularProgressView?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10WherebySDK22BannerNotificationViewC012progressRingE033_FF07BBE771F99FB8981239B0103286F6LLAA016CircularProgressE0CSgvp",
+            "mangledName": "$s10WherebySDK22BannerNotificationViewC012progressRingE033_FF07BBE771F99FB8981239B0103286F6LLAA016CircularProgressE0CSgvp",
+            "moduleName": "WherebySDK",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "ReferenceOwnership",
+              "AccessControl",
+              "IBOutlet",
+              "ObjC"
+            ],
+            "fixedbinaryorder": 4,
+            "ownership": 1,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "messageLabel",
+            "printedName": "messageLabel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "UIKit.UILabel?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10WherebySDK22BannerNotificationViewC12messageLabel33_FF07BBE771F99FB8981239B0103286F6LLSo7UILabelCSgvp",
+            "mangledName": "$s10WherebySDK22BannerNotificationViewC12messageLabel33_FF07BBE771F99FB8981239B0103286F6LLSo7UILabelCSgvp",
+            "moduleName": "WherebySDK",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "ReferenceOwnership",
+              "AccessControl",
+              "IBOutlet",
+              "ObjC"
+            ],
+            "fixedbinaryorder": 5,
+            "ownership": 1,
+            "hasStorage": true
+          },
+          {
+            "kind": "Function",
+            "name": "commonInit",
+            "printedName": "commonInit()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10WherebySDK22BannerNotificationViewC10commonInityyF",
+            "mangledName": "$s10WherebySDK22BannerNotificationViewC10commonInityyF",
+            "moduleName": "WherebySDK",
+            "overriding": true,
+            "declAttributes": [
+              "Final",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(frame:)",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "BasicBannerNotificationView",
-                "printedName": "WherebySDK.BasicBannerNotificationView",
-                "usr": "c:@M@WherebySDK@objc(cs)BasicBannerNotificationView"
+                "name": "BannerNotificationView",
+                "printedName": "WherebySDK.BannerNotificationView",
+                "usr": "c:@M@WherebySDK@objc(cs)BannerNotificationView"
               },
               {
                 "kind": "TypeNominal",
@@ -45284,8 +44994,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@WherebySDK@objc(cs)BasicBannerNotificationView(im)initWithFrame:",
-            "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC5frameACSo6CGRectV_tcfc",
+            "usr": "c:@M@WherebySDK@objc(cs)BannerNotificationView(im)initWithFrame:",
+            "mangledName": "$s10WherebySDK22BannerNotificationViewC5frameACSo6CGRectV_tcfc",
             "moduleName": "WherebySDK",
             "overriding": true,
             "implicit": true,
@@ -45307,13 +45017,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "WherebySDK.BasicBannerNotificationView?",
+                "printedName": "WherebySDK.BannerNotificationView?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "BasicBannerNotificationView",
-                    "printedName": "WherebySDK.BasicBannerNotificationView",
-                    "usr": "c:@M@WherebySDK@objc(cs)BasicBannerNotificationView"
+                    "name": "BannerNotificationView",
+                    "printedName": "WherebySDK.BannerNotificationView",
+                    "usr": "c:@M@WherebySDK@objc(cs)BannerNotificationView"
                   }
                 ],
                 "usr": "s:Sq"
@@ -45326,8 +45036,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@WherebySDK@objc(cs)BasicBannerNotificationView(im)initWithCoder:",
-            "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC5coderACSgSo7NSCoderC_tcfc",
+            "usr": "c:@M@WherebySDK@objc(cs)BannerNotificationView(im)initWithCoder:",
+            "mangledName": "$s10WherebySDK22BannerNotificationViewC5coderACSgSo7NSCoderC_tcfc",
             "moduleName": "WherebySDK",
             "overriding": true,
             "implicit": true,
@@ -45343,20 +45053,20 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@WherebySDK@objc(cs)BasicBannerNotificationView",
-        "mangledName": "$s10WherebySDK27BasicBannerNotificationViewC",
+        "usr": "c:@M@WherebySDK@objc(cs)BannerNotificationView",
+        "mangledName": "$s10WherebySDK22BannerNotificationViewC",
         "moduleName": "WherebySDK",
-        "isOpen": true,
         "declAttributes": [
           "Preconcurrency",
           "Custom",
+          "Final",
           "AccessControl",
           "ObjC"
         ],
-        "superclassUsr": "c:@M@WherebySDK@objc(cs)EmptyBannerNotificationView",
+        "superclassUsr": "c:@M@WherebySDK@objc(cs)BaseBannerNotificationView",
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
-          "WherebySDK.EmptyBannerNotificationView",
+          "WherebySDK.BaseBannerNotificationView",
           "WherebySDK.NibView",
           "UIKit.UIView",
           "UIKit.UIResponder",
@@ -56992,6 +56702,391 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "MultipartFile",
+        "printedName": "MultipartFile",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "data",
+            "printedName": "data",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10WherebySDK13MultipartFileV4data10Foundation4DataVvp",
+            "mangledName": "$s10WherebySDK13MultipartFileV4data10Foundation4DataVvp",
+            "moduleName": "WherebySDK",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10WherebySDK13MultipartFileV4data10Foundation4DataVvg",
+                "mangledName": "$s10WherebySDK13MultipartFileV4data10Foundation4DataVvg",
+                "moduleName": "WherebySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "fileName",
+            "printedName": "fileName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10WherebySDK13MultipartFileV8fileNameSSvp",
+            "mangledName": "$s10WherebySDK13MultipartFileV8fileNameSSvp",
+            "moduleName": "WherebySDK",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10WherebySDK13MultipartFileV8fileNameSSvg",
+                "mangledName": "$s10WherebySDK13MultipartFileV8fileNameSSvg",
+                "moduleName": "WherebySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "paramName",
+            "printedName": "paramName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10WherebySDK13MultipartFileV9paramNameSSvp",
+            "mangledName": "$s10WherebySDK13MultipartFileV9paramNameSSvp",
+            "moduleName": "WherebySDK",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 2,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10WherebySDK13MultipartFileV9paramNameSSvg",
+                "mangledName": "$s10WherebySDK13MultipartFileV9paramNameSSvg",
+                "moduleName": "WherebySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "mimeType",
+            "printedName": "mimeType",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10WherebySDK13MultipartFileV8mimeTypeSSvp",
+            "mangledName": "$s10WherebySDK13MultipartFileV8mimeTypeSSvp",
+            "moduleName": "WherebySDK",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 3,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10WherebySDK13MultipartFileV8mimeTypeSSvg",
+                "mangledName": "$s10WherebySDK13MultipartFileV8mimeTypeSSvg",
+                "moduleName": "WherebySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(data:fileName:paramName:mimeType:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "MultipartFile",
+                "printedName": "WherebySDK.MultipartFile",
+                "usr": "s:10WherebySDK13MultipartFileV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10WherebySDK13MultipartFileV4data8fileName05paramG08mimeTypeAC10Foundation4DataV_S3Stcfc",
+            "mangledName": "$s10WherebySDK13MultipartFileV4data8fileName05paramG08mimeTypeAC10Foundation4DataV_S3Stcfc",
+            "moduleName": "WherebySDK",
+            "implicit": true,
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10WherebySDK13MultipartFileV",
+        "mangledName": "$s10WherebySDK13MultipartFileV",
+        "moduleName": "WherebySDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "MultipartFormData",
+        "printedName": "MultipartFormData",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "build",
+            "printedName": "build(boundary:fields:multipartFiles:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[WherebySDK.MultipartFile]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "MultipartFile",
+                    "printedName": "WherebySDK.MultipartFile",
+                    "usr": "s:10WherebySDK13MultipartFileV"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10WherebySDK17MultipartFormDataO5build8boundary6fields14multipartFiles10Foundation0E0VSS_SDyS2SGSayAA0C4FileVGtFZ",
+            "mangledName": "$s10WherebySDK17MultipartFormDataO5build8boundary6fields14multipartFiles10Foundation0E0VSS_SDyS2SGSayAA0C4FileVGtFZ",
+            "moduleName": "WherebySDK",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10WherebySDK17MultipartFormDataO",
+        "mangledName": "$s10WherebySDK17MultipartFormDataO",
+        "moduleName": "WherebySDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "WherebySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
@@ -67903,8 +67998,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "EmptyBannerNotificationView",
-        "printedName": "EmptyBannerNotificationView",
+        "name": "BaseBannerNotificationView",
+        "printedName": "BaseBannerNotificationView",
         "children": [
           {
             "kind": "TypeDecl",
@@ -67919,24 +68014,24 @@
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(WherebySDK.EmptyBannerNotificationView.Level.Type) -> WherebySDK.EmptyBannerNotificationView.Level",
+                    "printedName": "(WherebySDK.BaseBannerNotificationView.Level.Type) -> WherebySDK.BaseBannerNotificationView.Level",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "Level",
-                        "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                        "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
+                        "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                        "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
                       },
                       {
                         "kind": "TypeNominal",
                         "name": "Metatype",
-                        "printedName": "WherebySDK.EmptyBannerNotificationView.Level.Type",
+                        "printedName": "WherebySDK.BaseBannerNotificationView.Level.Type",
                         "children": [
                           {
                             "kind": "TypeNominal",
                             "name": "Level",
-                            "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                            "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
+                            "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                            "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
                           }
                         ]
                       }
@@ -67944,8 +68039,8 @@
                   }
                 ],
                 "declKind": "EnumElement",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO4infoyA2EmF",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5LevelO4infoyA2EmF",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO4infoyA2EmF",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5LevelO4infoyA2EmF",
                 "moduleName": "WherebySDK",
                 "fixedbinaryorder": 0
               },
@@ -67957,24 +68052,24 @@
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(WherebySDK.EmptyBannerNotificationView.Level.Type) -> WherebySDK.EmptyBannerNotificationView.Level",
+                    "printedName": "(WherebySDK.BaseBannerNotificationView.Level.Type) -> WherebySDK.BaseBannerNotificationView.Level",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "Level",
-                        "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                        "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
+                        "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                        "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
                       },
                       {
                         "kind": "TypeNominal",
                         "name": "Metatype",
-                        "printedName": "WherebySDK.EmptyBannerNotificationView.Level.Type",
+                        "printedName": "WherebySDK.BaseBannerNotificationView.Level.Type",
                         "children": [
                           {
                             "kind": "TypeNominal",
                             "name": "Level",
-                            "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                            "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
+                            "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                            "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
                           }
                         ]
                       }
@@ -67982,8 +68077,8 @@
                   }
                 ],
                 "declKind": "EnumElement",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO5alertyA2EmF",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5LevelO5alertyA2EmF",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO5alertyA2EmF",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5LevelO5alertyA2EmF",
                 "moduleName": "WherebySDK",
                 "fixedbinaryorder": 1
               },
@@ -68001,19 +68096,19 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Level",
-                    "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                    "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
+                    "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                    "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
                   },
                   {
                     "kind": "TypeNominal",
                     "name": "Level",
-                    "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                    "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
+                    "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                    "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
                   }
                 ],
                 "declKind": "Func",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO2eeoiySbAE_AEtFZ",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5LevelO2eeoiySbAE_AEtFZ",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO2eeoiySbAE_AEtFZ",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5LevelO2eeoiySbAE_AEtFZ",
                 "moduleName": "WherebySDK",
                 "static": true,
                 "implicit": true,
@@ -68032,8 +68127,8 @@
                   }
                 ],
                 "declKind": "Var",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO9hashValueSivp",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5LevelO9hashValueSivp",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO9hashValueSivp",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5LevelO9hashValueSivp",
                 "moduleName": "WherebySDK",
                 "implicit": true,
                 "accessors": [
@@ -68050,8 +68145,8 @@
                       }
                     ],
                     "declKind": "Accessor",
-                    "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO9hashValueSivg",
-                    "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5LevelO9hashValueSivg",
+                    "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO9hashValueSivg",
+                    "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5LevelO9hashValueSivg",
                     "moduleName": "WherebySDK",
                     "implicit": true,
                     "accessorKind": "get"
@@ -68077,16 +68172,16 @@
                   }
                 ],
                 "declKind": "Func",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO4hash4intoys6HasherVz_tF",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5LevelO4hash4intoys6HasherVz_tF",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO4hash4intoys6HasherVz_tF",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5LevelO4hash4intoys6HasherVz_tF",
                 "moduleName": "WherebySDK",
                 "implicit": true,
                 "funcSelfKind": "NonMutating"
               }
             ],
             "declKind": "Enum",
-            "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO",
-            "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5LevelO",
+            "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5LevelO",
             "moduleName": "WherebySDK",
             "declAttributes": [
               "AccessControl"
@@ -68150,8 +68245,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:10WherebySDK27EmptyBannerNotificationViewC15animatedOriginY14CoreFoundation7CGFloatVvp",
-            "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC15animatedOriginY12CoreGraphics7CGFloatVvp",
+            "usr": "s:10WherebySDK26BaseBannerNotificationViewC15animatedOriginY14CoreFoundation7CGFloatVvp",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC15animatedOriginY12CoreGraphics7CGFloatVvp",
             "moduleName": "WherebySDK",
             "isOpen": true,
             "declAttributes": [
@@ -68178,8 +68273,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC15animatedOriginY14CoreFoundation7CGFloatVvg",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC15animatedOriginY12CoreGraphics7CGFloatVvg",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC15animatedOriginY14CoreFoundation7CGFloatVvg",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC15animatedOriginY12CoreGraphics7CGFloatVvg",
                 "moduleName": "WherebySDK",
                 "implicit": true,
                 "isOpen": true,
@@ -68203,8 +68298,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC15animatedOriginY14CoreFoundation7CGFloatVvs",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC15animatedOriginY12CoreGraphics7CGFloatVvs",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC15animatedOriginY14CoreFoundation7CGFloatVvs",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC15animatedOriginY12CoreGraphics7CGFloatVvs",
                 "moduleName": "WherebySDK",
                 "implicit": true,
                 "isOpen": true,
@@ -68222,8 +68317,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC15animatedOriginY14CoreFoundation7CGFloatVvM",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC15animatedOriginY12CoreGraphics7CGFloatVvM",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC15animatedOriginY14CoreFoundation7CGFloatVvM",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC15animatedOriginY12CoreGraphics7CGFloatVvM",
                 "moduleName": "WherebySDK",
                 "implicit": true,
                 "isOpen": true,
@@ -68244,8 +68339,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:10WherebySDK27EmptyBannerNotificationViewC12isPersistentSbvp",
-            "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC12isPersistentSbvp",
+            "usr": "s:10WherebySDK26BaseBannerNotificationViewC12isPersistentSbvp",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC12isPersistentSbvp",
             "moduleName": "WherebySDK",
             "isOpen": true,
             "declAttributes": [
@@ -68272,8 +68367,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC12isPersistentSbvg",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC12isPersistentSbvg",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC12isPersistentSbvg",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC12isPersistentSbvg",
                 "moduleName": "WherebySDK",
                 "implicit": true,
                 "isOpen": true,
@@ -68297,8 +68392,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC12isPersistentSbvs",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC12isPersistentSbvs",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC12isPersistentSbvs",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC12isPersistentSbvs",
                 "moduleName": "WherebySDK",
                 "implicit": true,
                 "isOpen": true,
@@ -68316,8 +68411,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC12isPersistentSbvM",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC12isPersistentSbvM",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC12isPersistentSbvM",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC12isPersistentSbvM",
                 "moduleName": "WherebySDK",
                 "implicit": true,
                 "isOpen": true,
@@ -68333,13 +68428,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Level",
-                "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
+                "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
               }
             ],
             "declKind": "Var",
-            "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5levelAC5LevelOvp",
-            "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5levelAC5LevelOvp",
+            "usr": "s:10WherebySDK26BaseBannerNotificationViewC5levelAC5LevelOvp",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5levelAC5LevelOvp",
             "moduleName": "WherebySDK",
             "isOpen": true,
             "declAttributes": [
@@ -68361,13 +68456,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Level",
-                    "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                    "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
+                    "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                    "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5levelAC5LevelOvg",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5levelAC5LevelOvg",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC5levelAC5LevelOvg",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5levelAC5LevelOvg",
                 "moduleName": "WherebySDK",
                 "implicit": true,
                 "isOpen": true,
@@ -68386,13 +68481,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Level",
-                    "printedName": "WherebySDK.EmptyBannerNotificationView.Level",
-                    "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5LevelO"
+                    "printedName": "WherebySDK.BaseBannerNotificationView.Level",
+                    "usr": "s:10WherebySDK26BaseBannerNotificationViewC5LevelO"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5levelAC5LevelOvs",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5levelAC5LevelOvs",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC5levelAC5LevelOvs",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5levelAC5LevelOvs",
                 "moduleName": "WherebySDK",
                 "implicit": true,
                 "isOpen": true,
@@ -68410,8 +68505,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:10WherebySDK27EmptyBannerNotificationViewC5levelAC5LevelOvM",
-                "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5levelAC5LevelOvM",
+                "usr": "s:10WherebySDK26BaseBannerNotificationViewC5levelAC5LevelOvM",
+                "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5levelAC5LevelOvM",
                 "moduleName": "WherebySDK",
                 "implicit": true,
                 "isOpen": true,
@@ -68440,8 +68535,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:10WherebySDK27EmptyBannerNotificationViewC19topAnchorConstraint33_F205906C9E5756ACCE09E96C2010EA1CLLSo08NSLayoutI0CSgvp",
-            "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC19topAnchorConstraint33_F205906C9E5756ACCE09E96C2010EA1CLLSo08NSLayoutI0CSgvp",
+            "usr": "s:10WherebySDK26BaseBannerNotificationViewC19topAnchorConstraint33_A10999C2F20B657D39C473AABE9A5343LLSo08NSLayoutI0CSgvp",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC19topAnchorConstraint33_A10999C2F20B657D39C473AABE9A5343LLSo08NSLayoutI0CSgvp",
             "moduleName": "WherebySDK",
             "isInternal": true,
             "declAttributes": [
@@ -68456,6 +68551,100 @@
             "hasStorage": true
           },
           {
+            "kind": "Var",
+            "name": "hiddenOriginY",
+            "printedName": "hiddenOriginY",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10WherebySDK26BaseBannerNotificationViewC13hiddenOriginY33_A10999C2F20B657D39C473AABE9A5343LL14CoreFoundation7CGFloatVSgvp",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC13hiddenOriginY33_A10999C2F20B657D39C473AABE9A5343LL12CoreGraphics7CGFloatVSgvp",
+            "moduleName": "WherebySDK",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "fixedbinaryorder": 4,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "animationDuration",
+            "printedName": "animationDuration",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10WherebySDK26BaseBannerNotificationViewC17animationDuration33_A10999C2F20B657D39C473AABE9A5343LLSdvp",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC17animationDuration33_A10999C2F20B657D39C473AABE9A5343LLSdvp",
+            "moduleName": "WherebySDK",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 5,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "transitionRelativeDuration",
+            "printedName": "transitionRelativeDuration",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10WherebySDK26BaseBannerNotificationViewC26transitionRelativeDuration33_A10999C2F20B657D39C473AABE9A5343LLSdvp",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC26transitionRelativeDuration33_A10999C2F20B657D39C473AABE9A5343LLSdvp",
+            "moduleName": "WherebySDK",
+            "isInternal": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Preconcurrency",
+              "Custom",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "fixedbinaryorder": 6,
+            "isLet": true,
+            "hasStorage": true
+          },
+          {
             "kind": "Function",
             "name": "commonInit",
             "printedName": "commonInit()",
@@ -68467,8 +68656,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:10WherebySDK27EmptyBannerNotificationViewC10commonInityyF",
-            "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC10commonInityyF",
+            "usr": "s:10WherebySDK26BaseBannerNotificationViewC10commonInityyF",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC10commonInityyF",
             "moduleName": "WherebySDK",
             "overriding": true,
             "isOpen": true,
@@ -68492,8 +68681,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "c:@M@WherebySDK@objc(cs)EmptyBannerNotificationView(im)didMoveToSuperview",
-            "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC18didMoveToSuperviewyyF",
+            "usr": "c:@M@WherebySDK@objc(cs)BaseBannerNotificationView(im)didMoveToSuperview",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC18didMoveToSuperviewyyF",
             "moduleName": "WherebySDK",
             "overriding": true,
             "isOpen": true,
@@ -68510,8 +68699,8 @@
           },
           {
             "kind": "Function",
-            "name": "animate",
-            "printedName": "animate()",
+            "name": "animateIn",
+            "printedName": "animateIn()",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -68520,8 +68709,32 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:10WherebySDK27EmptyBannerNotificationViewC7animateyyF",
-            "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC7animateyyF",
+            "usr": "s:10WherebySDK26BaseBannerNotificationViewC9animateInyyF",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC9animateInyyF",
+            "moduleName": "WherebySDK",
+            "isOpen": true,
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "animateOut",
+            "printedName": "animateOut()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10WherebySDK26BaseBannerNotificationViewC10animateOutyyF",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC10animateOutyyF",
             "moduleName": "WherebySDK",
             "isOpen": true,
             "declAttributes": [
@@ -68539,9 +68752,9 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "EmptyBannerNotificationView",
-                "printedName": "WherebySDK.EmptyBannerNotificationView",
-                "usr": "c:@M@WherebySDK@objc(cs)EmptyBannerNotificationView"
+                "name": "BaseBannerNotificationView",
+                "printedName": "WherebySDK.BaseBannerNotificationView",
+                "usr": "c:@M@WherebySDK@objc(cs)BaseBannerNotificationView"
               },
               {
                 "kind": "TypeNominal",
@@ -68551,8 +68764,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@WherebySDK@objc(cs)EmptyBannerNotificationView(im)initWithFrame:",
-            "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5frameACSo6CGRectV_tcfc",
+            "usr": "c:@M@WherebySDK@objc(cs)BaseBannerNotificationView(im)initWithFrame:",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5frameACSo6CGRectV_tcfc",
             "moduleName": "WherebySDK",
             "overriding": true,
             "implicit": true,
@@ -68574,13 +68787,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "WherebySDK.EmptyBannerNotificationView?",
+                "printedName": "WherebySDK.BaseBannerNotificationView?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "EmptyBannerNotificationView",
-                    "printedName": "WherebySDK.EmptyBannerNotificationView",
-                    "usr": "c:@M@WherebySDK@objc(cs)EmptyBannerNotificationView"
+                    "name": "BaseBannerNotificationView",
+                    "printedName": "WherebySDK.BaseBannerNotificationView",
+                    "usr": "c:@M@WherebySDK@objc(cs)BaseBannerNotificationView"
                   }
                 ],
                 "usr": "s:Sq"
@@ -68593,8 +68806,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "c:@M@WherebySDK@objc(cs)EmptyBannerNotificationView(im)initWithCoder:",
-            "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC5coderACSgSo7NSCoderC_tcfc",
+            "usr": "c:@M@WherebySDK@objc(cs)BaseBannerNotificationView(im)initWithCoder:",
+            "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC5coderACSgSo7NSCoderC_tcfc",
             "moduleName": "WherebySDK",
             "overriding": true,
             "implicit": true,
@@ -68610,8 +68823,8 @@
           }
         ],
         "declKind": "Class",
-        "usr": "c:@M@WherebySDK@objc(cs)EmptyBannerNotificationView",
-        "mangledName": "$s10WherebySDK27EmptyBannerNotificationViewC",
+        "usr": "c:@M@WherebySDK@objc(cs)BaseBannerNotificationView",
+        "mangledName": "$s10WherebySDK26BaseBannerNotificationViewC",
         "moduleName": "WherebySDK",
         "isOpen": true,
         "declAttributes": [
@@ -210441,177 +210654,184 @@
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1785,
+      "offset": 1723,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1821,
+      "offset": 1759,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2605,
+      "offset": 2543,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3016,
+      "offset": 2954,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2836,
+      "offset": 2774,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3260,
+      "offset": 3198,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3085,
+      "offset": 3023,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3576,
+      "offset": 3514,
       "length": 11,
       "value": "\"Streaming\""
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3683,
+      "offset": 3621,
       "length": 42,
       "value": "\"room.bannerNotificationMessage.streaming\""
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3759,
+      "offset": 3697,
       "length": 51,
       "value": "\"Message to display when meeting is being streamed\""
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3321,
+      "offset": 3259,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3958,
+      "offset": 3920,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4200,
+      "offset": 4162,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4667,
+      "offset": 4703,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4729,
+      "offset": 4765,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4794,
+      "offset": 4830,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5476,
+      "offset": 5512,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5659,
+      "offset": 5695,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5800,
+      "offset": 5836,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6045,
+      "offset": 6081,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6212,
+      "offset": 6248,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6429,
+      "offset": 6465,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6892,
+      "offset": 6928,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7043,
+      "offset": 7079,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 7415,
+      "offset": 7451,
       "length": 3,
       "value": "7.0"
+    },
+    {
+      "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/RoomViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 60464,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/PreCall\/JoinError\/RoomFullViewController.swift",
@@ -211368,20 +211588,6 @@
       "offset": 487,
       "length": 5,
       "value": "\"mkv\""
-    },
-    {
-      "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/TimeLimitedRoomBannerNotificationView.swift",
-      "kind": "FloatLiteral",
-      "offset": 477,
-      "length": 3,
-      "value": "0.0"
-    },
-    {
-      "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/TimeLimitedRoomBannerNotificationView.swift",
-      "kind": "FloatLiteral",
-      "offset": 1050,
-      "length": 3,
-      "value": "7.0"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/CommonViews\/SheetContentViewController.swift",
@@ -212147,6 +212353,20 @@
       "value": "0.0"
     },
     {
+      "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/BannerNotificationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1117,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/BannerNotificationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1529,
+      "length": 1,
+      "value": "7"
+    },
+    {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/ClientMenuViewController.swift",
       "kind": "StringLiteral",
       "offset": 204,
@@ -212637,18 +212857,32 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/EmptyBannerNotificationView.swift",
+      "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/BaseBannerNotificationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 436,
+      "offset": 431,
       "length": 2,
       "value": "48"
     },
     {
-      "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/EmptyBannerNotificationView.swift",
+      "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/BaseBannerNotificationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 551,
+      "offset": 542,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/BaseBannerNotificationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 936,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Room\/Main\/BaseBannerNotificationView.swift",
+      "kind": "FloatLiteral",
+      "offset": 991,
+      "length": 4,
+      "value": "0.01"
     },
     {
       "filePath": "\/Users\/remiquinto\/Documents\/Work\/Whereby\/repos\/ios\/Common\/Analytics\/Analytics.swift",

@@ -12,9 +12,9 @@
 		<data>
 		LgWfMByMu/Gx3cAcfG13vOaeJvE=
 		</data>
-		<key>BasicBannerNotificationView.nib</key>
+		<key>BannerNotificationView.nib</key>
 		<data>
-		7WU4pfnCG/ens2ib9CI8V/KQbk0=
+		WMTp9iahM74JEWTjaXFo9i0MZv4=
 		</data>
 		<key>Chat.storyboardc/ChatDisplayFileViewController.nib</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7rFdbv+qPe1k8rARLJZ0zeV9/yg=
+		MOJXUT2a7wC3mwt2iyf4n+VxbG0=
 		</data>
 		<key>JoinRequest.storyboardc/57O-rc-RiG-view-IJy-Jh-bTc.nib</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		TKm+P//4ITKudfJV8LM+PpgnEko=
+		pEAGbyp8K8gpCtBzcFQSqq58LZI=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		h/XuGNbQh+0318+ywKe/sLZrcZQ=
+		2G/fBd8VmIaKQVbk21CGZk/MWD4=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
@@ -238,11 +238,11 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HrZIKV/JROsbzB2bNcvPo05rf0o=
+		eyWg/hkQpWdl6tpg0ygnPybzORc=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		TKm+P//4ITKudfJV8LM+PpgnEko=
+		pEAGbyp8K8gpCtBzcFQSqq58LZI=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -250,7 +250,7 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		KA9CGom3IS3YbLSo1IlsXUKQyKY=
+		eNmBq54aVIB1NkIa14jlaokrZVs=
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
@@ -258,7 +258,7 @@
 		</data>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/g5wEGaaRmU5zEkaff2HPko9w/Y=
+		J3lAHTW8FkUYfG+w3HluDuMxGvo=
 		</data>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
 		<data>
@@ -380,10 +380,6 @@
 		<data>
 		0bdu5PIFIe/isScEVzB3TtZbZ1Q=
 		</data>
-		<key>TimeLimitedRoomBannerNotificationView.nib</key>
-		<data>
-		+vU+5blptQ8nlc79/IqFTMoBDTU=
-		</data>
 		<key>WherebyRoslindaleDisplayCondensed-Regular.otf</key>
 		<data>
 		QNfglApfVGJo3Zklxi5i+Wp8ro0=
@@ -400,7 +396,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rlepok4qNfMWOFjuIXhLAtiNZjA=
+			jLF6AzAdfZ2TxXIvoyFKbntplV4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -434,11 +430,11 @@
 			mf8tmJ1s8ubQEMWaypiOTVeW5pXUApFz7IgIhyxU25A=
 			</data>
 		</dict>
-		<key>BasicBannerNotificationView.nib</key>
+		<key>BannerNotificationView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			28zqhaWMtD3JiKVf5lPoIRcYki7H+Pkbpg62ofYnKhY=
+			iLIP+X9xNV9Kc32AMMZMjoSGXtj6ICqvFsc7qEkGoEg=
 			</data>
 		</dict>
 		<key>Chat.storyboardc/ChatDisplayFileViewController.nib</key>
@@ -795,7 +791,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H8kvOimp+AzoZ4ZjaVWS9QzoIUlfLLq5jkBQrxx1S7Y=
+			U+rebgVDQWk+e++3SgWIKDAWqSeqjOZ+kRkSrn9juBI=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -809,7 +805,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1VIkx4hWrB5hziMCzjrx0kEi9eioRK5fcFf3HkF0zJg=
+			oueIPl2YyAmXrqEud9wBS9EH/Cdeevykxk/qB9ReLPk=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
@@ -823,14 +819,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LDgXIFnQv2/mwlIK98yl8tscHvStCg1XBX5f6Ubgzdw=
+			bBOhWfKvCNupSNVRr69v1rwQPywtmA+52Nytg5Mp0QA=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H8kvOimp+AzoZ4ZjaVWS9QzoIUlfLLq5jkBQrxx1S7Y=
+			U+rebgVDQWk+e++3SgWIKDAWqSeqjOZ+kRkSrn9juBI=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -844,7 +840,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VfHPAgVqIL1OuY+ol+Dy9RDz5wPmLjbcqeXmyl4RtQM=
+			Q/G8fm6kdMiTYZjo8PxDNnw5OQN3t+SIu6lTUboPQws=
 			</data>
 		</dict>
 		<key>Modules/WherebySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
@@ -858,7 +854,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			koa/76d0n88VYXnHRivSuR42JqHFYembW7ggYw7WnW0=
+			7gwPWw+RyDNZE87m8H1D2xY6vYtYK/ZT8xKcPnAnOc0=
 			</data>
 		</dict>
 		<key>Reactions.storyboardc/9JJ-UD-Aj6-view-7fW-D4-95t.nib</key>
@@ -1071,13 +1067,6 @@
 			BQRSVYyLtTyKYlUeXzoKxsrRwqzRnslj9i/wLIEDfmo=
 			</data>
 		</dict>
-		<key>TimeLimitedRoomBannerNotificationView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Qbl0XIeO6OrknGoDCT8LAgfRlvokRUxSYswrNTVEn/8=
-			</data>
-		</dict>
 		<key>WherebyRoslindaleDisplayCondensed-Regular.otf</key>
 		<dict>
 			<key>hash2</key>
@@ -1103,7 +1092,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6SpdKuUxgUKP8pyPoTqLnifWPo92lSvEvI2pDYYpQts=
+			kDXZote4awhUNV2gwYtejIsqanMpsB1S/fJ5tSnith8=
 			</data>
 			<key>optional</key>
 			<true/>
