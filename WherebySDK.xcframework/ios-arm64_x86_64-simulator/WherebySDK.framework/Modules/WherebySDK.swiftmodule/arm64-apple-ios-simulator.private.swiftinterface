@@ -15,9 +15,99 @@ import VideoToolbox
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+public struct WherebyAppearance {
+  public struct Color : Swift.Hashable {
+    public static let accentPrimaryDefault: WherebySDK.WherebyAppearance.Color
+    public static func == (a: WherebySDK.WherebyAppearance.Color, b: WherebySDK.WherebyAppearance.Color) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public static var shared: WherebySDK.WherebyAppearance
+  public mutating func setColorOverrides(_ colors: [WherebySDK.WherebyAppearance.Color : UIKit.UIColor])
+  public var colorBundle: Foundation.Bundle?
+}
 public struct LocalizedDescriptionError : Foundation.LocalizedError {
   public let errorDescription: Swift.String?
   public init(_ description: Swift.String)
+}
+public enum SemanticColorToken : Swift.String {
+  case accentPrimaryDefault
+  case primaryButtonHighlighted
+  case primaryButtonDisabled
+  case primaryButtonTitleNormal
+  case primaryButtonTitleHighlighted
+  case primaryButtonTitleDisabled
+  case secondaryButtonTitleNormal
+  case secondaryButtonTitleHighlighted
+  case secondaryButtonTitleDisabled
+  case tertiaryButtonTitleNormal
+  case tertiaryButtonTitleHighlighted
+  case tertiaryButtonTitleDisabled
+  case responsePositiveButtonNormal
+  case responsePositiveButtonHighlighted
+  case responseMoreButtonNormal
+  case responseMoreButtonHighlighted
+  case responseSecondaryButtonTitleNormal
+  case responseSecondaryButtonTitleHighlighted
+  case primaryButtonRedNormal
+  case primaryButtonRedHighlighted
+  case primaryButtonGreenNormal
+  case primaryButtonGreenHighlighted
+  case reactionButtonHighlighted
+  case mainBackground
+  case tableCellBackground
+  case tableCellBackgroundSelected
+  case tagGreenBackground
+  case tagBlueBackground
+  case tagRedBackground
+  case meetingRed
+  case destructiveAction
+  case errorViewText
+  case videoBackground
+  case roomBackground
+  case roomTintColor
+  case roomControlsBarButtonTitleDisabled
+  case defaultAvatar
+  case defaultAvatarOutline
+  case voiceBubble
+  case avatarAudioDisabledBorder
+  case roomBackgroundDefaultOverlay
+  case roomBackgroundImageOverlay
+  case textFieldBackground
+  case textFieldOutline
+  case chatMessageBackgroundIncoming
+  case chatMessageBackgroundOutgoing
+  case chatMessageParentBorder
+  case chatMessageParentText
+  case clientNameBackground
+  case clientNameBackgroundSpotlighted
+  case dashboardTabSelectedItem
+  case dashboardTabUnselectedItem
+  case dashboardFavoriteCreateRoomBackground
+  case businessRoomSectionHeaderBackground
+  case meetingCircularProgressBackground
+  case meetingTopbarCircularProgressBackground
+  case timeLimitedModalCircularViewProgress
+  case timeLimitedModalCircularViewBackground
+  case roomControlsBackground
+  case progressHUDBackground
+  case progressHUDForeground
+  case roomSettingsIconTint
+  case effectButtonActiveBackground
+  case effectButtonInactiveBackground
+  case effectButtonActiveTint
+  case effectButtonInactiveTint
+  case chatAttachedFileBackground
+  case chatAttachedFileSelectedBackground
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init?(rawValue: Swift.String)
+  #endif
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
 }
 public protocol WherebyRoomViewControllerDelegate : AnyObject {
   func roomViewControllerDidJoinRoom(_ roomViewController: WherebySDK.WherebyRoomViewController)
@@ -75,5 +165,8 @@ public struct WherebyRoomConfig {
   public init(url: Foundation.URL, mediaMode: WherebySDK.MediaMode? = nil, skipRoomPushAnimation: Swift.Bool = false, isLockingSettingsGloballyHidden: Swift.Bool = false)
   #endif
 }
+extension WherebySDK.SemanticColorToken : Swift.Equatable {}
+extension WherebySDK.SemanticColorToken : Swift.Hashable {}
+extension WherebySDK.SemanticColorToken : Swift.RawRepresentable {}
 extension WherebySDK.MediaMode : Swift.Equatable {}
 extension WherebySDK.MediaMode : Swift.Hashable {}
